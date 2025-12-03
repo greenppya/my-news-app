@@ -1,6 +1,6 @@
 {
     "2025-12-03": {
-        "briefing": "Error generating analysis: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+        "briefing": "Error generating analysis: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
         "articles": [
             {
                 "title": "\"챗GPT 때문에 다 죽었다\"…잘나가던 기업이 순식간에 '비명' [김인엽의 퓨처 디스패치] - hankyung.com",
@@ -12,7 +12,7 @@
             {
                 "title": "전기차 배터리 충전 대신 10분 만에 건전지 갈듯, 현대차 출신의 아이디어 - 조선일보",
                 "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa2JkOVZnemRlOTlnSmdIeXNlYUZZOVNnR0xPamZnM2FLV2ZnR3dlZVlWbXFfaHZ5VUZNaWJUWHFlUTdMMHZqLXo4UnZORXh6NnhGb1RrWU5Fd3NrVnA3NVQ4TzNYYVJFMmFRTHExYnI0T1ppLTRqeGlvNUlpSDRXOGJ6SGFocW51NGZB0gGfAUFVX3lxTE9NRXZpTXU0SUtZd0VrM1Zhb284RUY4WndDc1FsU3BTSUFaWHdfdGZZdkpKeDlKY0dCWmdWdk1vOFpZbmNYQzhmLTBJeVUzbUFtSy1rckEwY2xYSFNpYmVNZXl1ci1CUVFydDJ3cUR5b0FiTXR6ZkpIMkN2Qk9CNkVzRU56b09OQ0JGNkcxYXBQemNsYW56ckhnN2NxTllBRQ?oc=5",
-                "published": "2025-12-03 11:57:44",
+                "published": "2025-12-03 14:58:09",
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa2JkOVZnemRlOTlnSmdIeXNlYUZZOVNnR0xPamZnM2FLV2ZnR3dlZVlWbXFfaHZ5VUZNaWJUWHFlUTdMMHZqLXo4UnZORXh6NnhGb1RrWU5Fd3NrVnA3NVQ4TzNYYVJFMmFRTHExYnI0T1ppLTRqeGlvNUlpSDRXOGJ6SGFocW51NGZB0gGfAUFVX3lxTE9NRXZpTXU0SUtZd0VrM1Zhb284RUY4WndDc1FsU3BTSUFaWHdfdGZZdkpKeDlKY0dCWmdWdk1vOFpZbmNYQzhmLTBJeVUzbUFtSy1rckEwY2xYSFNpYmVNZXl1ci1CUVFydDJ3cUR5b0FiTXR6ZkpIMkN2Qk9CNkVzRU56b09OQ0JGNkcxYXBQemNsYW56ckhnN2NxTllBRQ?oc=5\" target=\"_blank\">전기차 배터리 충전 대신 10분 만에 건전지 갈듯, 현대차 출신의 아이디어</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
                 "source": "기술 - 최신 뉴스 - Google 뉴스"
             },
@@ -31,17 +31,17 @@
                 "source": "기술 - 최신 뉴스 - Google 뉴스"
             },
             {
-                "title": "혼자 있던 70대 119에 신고했지만 숨져…“주소 찾고 다시 전화 달라” - 매일경제",
-                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkWmRuMTU5MjQ2RWxSZUFhb2M4aUlXOTdSQ1N5WGlZbU1EV2JYdVJFRmI3RkMyNXlrOEV6R1U2SE1RdnljQkthdnk4eGlJUGJPQmMzOA?oc=5",
-                "published": "2025-12-03 04:31:50",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkWmRuMTU5MjQ2RWxSZUFhb2M4aUlXOTdSQ1N5WGlZbU1EV2JYdVJFRmI3RkMyNXlrOEV6R1U2SE1RdnljQkthdnk4eGlJUGJPQmMzOA?oc=5\" target=\"_blank\">혼자 있던 70대 119에 신고했지만 숨져…“주소 찾고 다시 전화 달라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
-                "source": "기술 - 최신 뉴스 - Google 뉴스"
-            },
-            {
                 "title": "엑스알피(XRP) 스테이킹 본격 개시…파이어라이트 프로토콜 출범 - 블록미디어",
                 "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HSGtrUjd3d055aFkwVmxSOS1WYThMNkEyRHNqQjZhX1ZaUk9OenNJYzFqZ0hZZ3p2dG5yaC1xajBjWEgtbEJSQ3ZaR0xncTZHUGRWWHk5Nlk?oc=5",
                 "published": "2025-12-03 13:05:00",
                 "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HSGtrUjd3d055aFkwVmxSOS1WYThMNkEyRHNqQjZhX1ZaUk9OenNJYzFqZ0hZZ3p2dG5yaC1xajBjWEgtbEJSQ3ZaR0xncTZHUGRWWHk5Nlk?oc=5\" target=\"_blank\">엑스알피(XRP) 스테이킹 본격 개시…파이어라이트 프로토콜 출범</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">블록미디어</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ2VGVDEzLU1sZ3N6S3ZPV1hlRzl4U2x0ZHdHTXJJX3dBbDZJWDRVaER6MW5rQ2pBcEZ4dnlicUhPc2k2eENLQlowc3YtTkJTRUFxU3NNSDV5V3BKLWljQ1NnZF9nMUNxckNHTnRmd2ljVnBqb3diZEN5YTkxb0dPc1R4M3JEU3BY?oc=5\" target=\"_blank\">XRP ‘글로벌 은행 채택’...가치 “지금과 비교할 수 없다”분석</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">글로벌이코노믹</font></li><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFB0b1Jaa1dMcTRvOTg2X2lzZmlLOFBEdnhmR0dvaWtaMWZxUk82WUw1U1RJNll6Y05sb0hlckZyZFlVZTZRVXlfSjRpRzJnR2JLTGtqSWp5eVhSUF8yTmk4cjBfazJLd0F3M0dWUmZNLXAxcm8?oc=5\" target=\"_blank\">XRP, 비트코인과 점차 분리될 것…필연적 흐름?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font></li><li><a href=\"https://news.google.com/rss...",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "혼자 있던 70대 119에 신고했지만 숨져…“주소 찾고 다시 전화 달라” - 매일경제",
+                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkWmRuMTU5MjQ2RWxSZUFhb2M4aUlXOTdSQ1N5WGlZbU1EV2JYdVJFRmI3RkMyNXlrOEV6R1U2SE1RdnljQkthdnk4eGlJUGJPQmMzOA?oc=5",
+                "published": "2025-12-03 04:31:50",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkWmRuMTU5MjQ2RWxSZUFhb2M4aUlXOTdSQ1N5WGlZbU1EV2JYdVJFRmI3RkMyNXlrOEV6R1U2SE1RdnljQkthdnk4eGlJUGJPQmMzOA?oc=5\" target=\"_blank\">혼자 있던 70대 119에 신고했지만 숨져…“주소 찾고 다시 전화 달라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
                 "source": "기술 - 최신 뉴스 - Google 뉴스"
             },
             {
@@ -62,7 +62,7 @@
                 "title": "현대차, 모베드 공개…모빌리티 로봇 첫 양산 - v.daum.net",
                 "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vQUxoSUFYRzE3Zkl1VUQ2TG1fTEtQY0s1RnZjSERHRnpqN3JuaWFQTHFtVVZuazg0RUxWdEg3dG82bWx3QU1EcWdfdk85MzQ?oc=5",
                 "published": "2025-12-03 05:26:00",
-                "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vQUxoSUFYRzE3Zkl1VUQ2TG1fTEtQY0s1RnZjSERHRnpqN3JuaWFQTHFtVVZuazg0RUxWdEg3dG82bWx3QU1EcWdfdk85MzQ?oc=5\" target=\"_blank\">현대차, 모베드 공개…모빌리티 로봇 첫 양산</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font></li><li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5uUnFWc0xGaWJxTExHenlKUlFTdF93M2g4SXlEV1BRV1puWU5qMV9GVEY4bXg1RWlubWNtSnJNTWxoQnFaVW5qdVBLMzNhQUkta01FQ1RfT2R2dGt6MXpIdUdKUjRST3BWajl1bNIBcEFVX3lxTFBQamxnWDNpbTNnSElmd2M5Z3RoVnV3Qm5jRkNHV013Y1d5aGhTTFZtLWt4UU8wdW9xdWZwZTNURk1URExuWFA4Zjd5ZW1yN1l1U2ZoQ1Fud1NodE5qWmFhb3VlN21fdFRLLVRiRUNCYmk?oc=5\" target=\"_blank\">현대차·기아, 인휠모터로 어디서든 달리는 로봇 '모베드' 양산형 공개</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전기신문</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNS09mZTg0bDhBdWtMTF9iUGMxZS0xQzVyZG9TazBGV0tQUkFFeC1CNHozN21sWW9ldUY1alFHemxQUGt3aVVfLWp2QXB4VHhVNU1QSEc0dmlTZ0VFYVpWcWdiWkNDbmVybnJseGFQN2ZSdXJ0STNkZXdrYVA3OXBLVGZDcG5VUQ?oc=5\" target=\"_blank\">현...",
+                "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vQUxoSUFYRzE3Zkl1VUQ2TG1fTEtQY0s1RnZjSERHRnpqN3JuaWFQTHFtVVZuazg0RUxWdEg3dG82bWx3QU1EcWdfdk85MzQ?oc=5\" target=\"_blank\">현대차, 모베드 공개…모빌리티 로봇 첫 양산</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font></li><li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5uUnFWc0xGaWJxTExHenlKUlFTdF93M2g4SXlEV1BRV1puWU5qMV9GVEY4bXg1RWlubWNtSnJNTWxoQnFaVW5qdVBLMzNhQUkta01FQ1RfT2R2dGt6MXpIdUdKUjRST3BWajl1bNIBcEFVX3lxTFBQamxnWDNpbTNnSElmd2M5Z3RoVnV3Qm5jRkNHV013Y1d5aGhTTFZtLWt4UU8wdW9xdWZwZTNURk1URExuWFA4Zjd5ZW1yN1l1U2ZoQ1Fud1NodE5qWmFhb3VlN21fdFRLLVRiRUNCYmk?oc=5\" target=\"_blank\">현대차·기아, 인휠모터로 어디서든 달리는 로봇 '모베드' 양산형 공개</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전기신문</font></li><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBCNGpLMmZwNjBnWTQ2eDd5RVEtZUNoczVfRkVQNWN0TFN0NXFrLU9pcXN2bzVBQ2dLeUwyczZ1c0FSYVREOE5xOXppZ1RDQUN6eTBBT1YyTkVNLXZUSXBMVmJ3VGVyTVkwY04ycGlQZl9QZ0RTNnQ3cg?oc=5\" target=\"_blank\">\"흔들리지 않는 편안함\" 현대차, 로봇...",
                 "source": "기술 - 최신 뉴스 - Google 뉴스"
             },
             {
@@ -94,17 +94,24 @@
                 "source": "기술 - 최신 뉴스 - Google 뉴스"
             },
             {
-                "title": "10년 잠든 이더리움 초창기 고래 깨어났다…매도 대신 전량 스테이킹, 왜? - 디지털투데이",
-                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KcXZFdUE3SHloSDVNTUFHRDNxVm5LUmo0ZWZUWmpTT21yWU1ZRGhkbHpNWnA4V1VHdmxEZko0X3o0dGo4NDdYbDZNZ1B0cVE0NE80ZVBCSkQ4R0tuWktkNXBfanVTeHB0dWZRRWJ6X0RJN09XSk00UTJwRVNUcHM?oc=5",
-                "published": "2025-12-03 04:25:47",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1KcXZFdUE3SHloSDVNTUFHRDNxVm5LUmo0ZWZUWmpTT21yWU1ZRGhkbHpNWnA4V1VHdmxEZko0X3o0dGo4NDdYbDZNZ1B0cVE0NE80ZVBCSkQ4R0tuWktkNXBfanVTeHB0dWZRRWJ6X0RJN09XSk00UTJwRVNUcHM?oc=5\" target=\"_blank\">10년 잠든 이더리움 초창기 고래 깨어났다…매도 대신 전량 스테이킹, 왜?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font>",
-                "source": "기술 - 최신 뉴스 - Google 뉴스"
-            },
-            {
                 "title": "\"메모리 두 개 값이면 CPU가 하나\"... 조립PC 시대 끝나나 - 지디넷코리아",
                 "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ITnEwNU44QlZkeC1GRVk0dlduNFFtREFnVkRyOWxZUFppdU9KMUpfOUtqUE9TNnNxVFg4TElpei1odTFRWkR4NTdjckFRX3NrdFlaekNn?oc=5",
                 "published": "2025-12-03 06:49:10",
                 "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ITnEwNU44QlZkeC1GRVk0dlduNFFtREFnVkRyOWxZUFppdU9KMUpfOUtqUE9TNnNxVFg4TElpei1odTFRWkR4NTdjckFRX3NrdFlaekNn?oc=5\" target=\"_blank\">\"메모리 두 개 값이면 CPU가 하나\"... 조립PC 시대 끝나나</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">지디넷코리아</font>",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "10년 잠든 이더리움 초창기 고래 깨어났다…매도 대신 전량 스테이킹, 왜? - 디지털투데이",
+                "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81UHVNOVBscGJVXzB2akgtNXpmNnJ2NWFENzU4bFpicEFBS29sLXg2R1Q4UFFZdmEtQXlCUzQ0NEdONUZXVUhlaGlaQ1VBWHhlWXpYWElfenJhQWN0bWRhQVVPRmdJV0hSMXpjZFlhQkxETE0?oc=5",
+                "published": "2025-12-03 04:25:00",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE81UHVNOVBscGJVXzB2akgtNXpmNnJ2NWFENzU4bFpicEFBS29sLXg2R1Q4UFFZdmEtQXlCUzQ0NEdONUZXVUhlaGlaQ1VBWHhlWXpYWElfenJhQWN0bWRhQVVPRmdJV0hSMXpjZFlhQkxETE0?oc=5\" target=\"_blank\">10년 잠든 이더리움 초창기 고래 깨어났다…매도 대신 전량 스테이킹, 왜?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font>",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "세계 1위 갑부의 예언 \"AI시대, 돈 개념 사라질 것\" - 아시아경제",
+                "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wdmhWeGRxcWdkcGYxRlBFb1NET0l1MmItOG1jMUs0MG8yY0NMSFNDVWhSMG5IdzJQNUV4RkstZXlpQzZDRGt0Nm5obzlfcjVCSjQ4Q2RMZkl4Mm4weTUyOVJKVi1iUGZlSFpRTE1nenk?oc=5",
+                "published": "2025-12-03 05:57:47",
+                "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5wdmhWeGRxcWdkcGYxRlBFb1NET0l1MmItOG1jMUs0MG8yY0NMSFNDVWhSMG5IdzJQNUV4RkstZXlpQzZDRGt0Nm5obzlfcjVCSjQ4Q2RMZkl4Mm4weTUyOVJKVi1iUGZlSFpRTE1nenk?oc=5\" target=\"_blank\">세계 1위 갑부의 예언 \"AI시대, 돈 개념 사라질 것\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lSWZLQUVRcmEzUW14cWc3aDhSUGNkbWNoR3NHMVBOTlRHbTRWVjdtN3paYjdNUWhyRE5KZFotZW56VGFDenNmcE9vZzh1SGN3OXdIWTFNVjJVQUnSAWBBVV95cUxPU1lDQlVCOV94VWNnd1k0NWVZdjdHd2daRUdWaVFqQmQyTGdOcHZQZ3hoYk5aVGxLd1BEZFlFLVBGcEhnbjZUWlI5Zmp4d2NvUVYwaG9XdU5qU3M5VEZ3Nlc?oc=5\" target=\"_blank\">머스크 \"AI시대에 장기적으로 돈 개념 사라질것…에너지가 통화역할\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZYi1UODdzVEwxRlBxSF9NMVlsSWpRU3lweDFUcTYwZVFkWnRUYkN4X0liYnpleTg1VU9SRDFULWw5UmlPaEJ5OW82NDhhMzdxMkZLQjdaSlRFQjJ4VEHSAYMBQVVfeXFMTzN3NGdMbXhzd19TQzc1YUZTVUg3N0VhaVVDbXNMTXBWQVFqTzRxU0ZmNHNUMWdyZ...",
                 "source": "기술 - 최신 뉴스 - Google 뉴스"
             },
             {
@@ -119,13 +126,6 @@
                 "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS1lZT0lxVUNlQ1RPYjdZRG5VQl9FWVF1WkV6RGo5TmJGcVR4Y0NUM0NzOXJnVElIQVdpMXUtRmRuZ3VBUW9TZFVLeHV1dDFXQ3daWjdTcDVtcXVTNTNibEs1ODRJb254MjcwTmRPeE9UeGw2eHdJelRCTTNMS25RWURPSnZhTmliLUY4bTExUdIBowFBVV95cUxPY0RaTXpDenk1V2N5TUMxbmVYaklDb1NRdTBZcTBSU0tjYWljQlVySW9BajJJTTZvQ0pYUzN0dHRRT2lQZVFzbWwwazVHX1hvRVR2UVZvc0RXci1kOUFGc3JpZDZCMDhUbHVUdHZyUjNoaWdGZHkwaHFHQkxBWm84SFBoeUlSOXVWZEpfSUJtMkZjX09TSVVIVmEyTTR1R1psNUlj?oc=5",
                 "published": "2025-12-03 00:25:44",
                 "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNS1lZT0lxVUNlQ1RPYjdZRG5VQl9FWVF1WkV6RGo5TmJGcVR4Y0NUM0NzOXJnVElIQVdpMXUtRmRuZ3VBUW9TZFVLeHV1dDFXQ3daWjdTcDVtcXVTNTNibEs1ODRJb254MjcwTmRPeE9UeGw2eHdJelRCTTNMS25RWURPSnZhTmliLUY4bTExUdIBowFBVV95cUxPY0RaTXpDenk1V2N5TUMxbmVYaklDb1NRdTBZcTBSU0tjYWljQlVySW9BajJJTTZvQ0pYUzN0dHRRT2lQZVFzbWwwazVHX1hvRVR2UVZvc0RXci1kOUFGc3JpZDZCMDhUbHVUdHZyUjNoaWdGZHkwaHFHQkxBWm84SFBoeUlSOXVWZEpfSUJtMkZjX09TSVVIVmEyTTR1R1psNUlj?oc=5\" target=\"_blank\">美상무 “韓日 대미 투자 7500억달러, 원전 건설부터 투입”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOWkVqMGtxZm1JZzdhckJiancySkxKRDgzTnE1ZlFLb2kwZWdqQUZVc3BCT0lScFFucm93TFNUOHRTeTlKQ1lfMXlTUHFLQWowQ3N2WVcwZkFGUdIBX0FVX3lxTE1FVHZvc3pPSmdzcGVOUnhncnN2RThkbVJJSkhHamUtN2h0YnlkR2NLZXJDeXM2MnlVaDBkRjgtWmZVU1JMMkdLMG83bERuSkU1Q1BmM3JBQ2VkVUJGM01F?oc=5\" target=\"_blank\">미 상무 “미국 원전, 한국과 일본의 대미 투자금으로 지을 것”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경향신문</font></...",
-                "source": "기술 - 최신 뉴스 - Google 뉴스"
-            },
-            {
-                "title": "세계 1위 갑부의 예언 \"AI시대, 돈 개념 사라질 것\" - 아시아경제",
-                "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wdmhWeGRxcWdkcGYxRlBFb1NET0l1MmItOG1jMUs0MG8yY0NMSFNDVWhSMG5IdzJQNUV4RkstZXlpQzZDRGt0Nm5obzlfcjVCSjQ4Q2RMZkl4Mm4weTUyOVJKVi1iUGZlSFpRTE1nenk?oc=5",
-                "published": "2025-12-03 05:57:47",
-                "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5wdmhWeGRxcWdkcGYxRlBFb1NET0l1MmItOG1jMUs0MG8yY0NMSFNDVWhSMG5IdzJQNUV4RkstZXlpQzZDRGt0Nm5obzlfcjVCSjQ4Q2RMZkl4Mm4weTUyOVJKVi1iUGZlSFpRTE1nenk?oc=5\" target=\"_blank\">세계 1위 갑부의 예언 \"AI시대, 돈 개념 사라질 것\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lSWZLQUVRcmEzUW14cWc3aDhSUGNkbWNoR3NHMVBOTlRHbTRWVjdtN3paYjdNUWhyRE5KZFotZW56VGFDenNmcE9vZzh1SGN3OXdIWTFNVjJVQUnSAWBBVV95cUxPU1lDQlVCOV94VWNnd1k0NWVZdjdHd2daRUdWaVFqQmQyTGdOcHZQZ3hoYk5aVGxLd1BEZFlFLVBGcEhnbjZUWlI5Zmp4d2NvUVYwaG9XdU5qU3M5VEZ3Nlc?oc=5\" target=\"_blank\">머스크 \"AI시대에 장기적으로 돈 개념 사라질것…에너지가 통화역할\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZYi1UODdzVEwxRlBxSF9NMVlsSWpRU3lweDFUcTYwZVFkWnRUYkN4X0liYnpleTg1VU9SRDFULWw5UmlPaEJ5OW82NDhhMzdxMkZLQjdaSlRFQjJ4VEHSAYMBQVVfeXFMTzN3NGdMbXhzd19TQzc1YUZTVUg3N0VhaVVDbXNMTXBWQVFqTzRxU0ZmNHNUMWdyZ...",
                 "source": "기술 - 최신 뉴스 - Google 뉴스"
             },
             {
@@ -164,6 +164,13 @@
                 "source": "기술 - 최신 뉴스 - Google 뉴스"
             },
             {
+                "title": "[영상] 쿠팡·업비트 개인정보 유출 전말 공개! 지금 당장 확인해야 할 것들 (오라이:ALL RIGHT) - 블록미디어",
+                "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YR3ZaeW9VNHlHb2NOZUtsbXRPX25uaElKSExCS29JSHpiSDZNWmsxNXM3OEtDcVJTRjIwSEVZWWpPR19HOVVxMW9qRTZ2eXZLZnFibDc0eFA?oc=5",
+                "published": "2025-12-03 05:00:00",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YR3ZaeW9VNHlHb2NOZUtsbXRPX25uaElKSExCS29JSHpiSDZNWmsxNXM3OEtDcVJTRjIwSEVZWWpPR19HOVVxMW9qRTZ2eXZLZnFibDc0eFA?oc=5\" target=\"_blank\">[영상] 쿠팡·업비트 개인정보 유출 전말 공개! 지금 당장 확인해야 할 것들 (오라이:ALL RIGHT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">블록미디어</font>",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
                 "title": "XRP, 반등 시동…애널리스트 \"13달러 상승 시나리오 여전\" - 디지털투데이",
                 "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xVzRYcnlPdjNwbjMwRUdHVWc2aGVwT3VjeDV1V3NhMmlTU3N4QlRtMWk3Q2hMbndKNWpIZndKQ3YtaV8xQUNoa25wd19BUzRQVEdXQzdWRlBOUW10SWJOem00ZEc5eGc0SFJnTkZQZW82dTNpTkxqOGEzcHc5NTA?oc=5",
                 "published": "2025-12-03 01:00:51",
@@ -171,17 +178,17 @@
                 "source": "기술 - 최신 뉴스 - Google 뉴스"
             },
             {
-                "title": "래리 핑크 블랙록 CEO \"토큰화는 금융의 미래다\" - 블록미디어",
-                "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xVTBQcnkxVUFVU2Q5UllYUjZaY0NoNW51anMtWm53VTZaSUJtaXJVeDRMbW5YTDhvdFZyVWxYZEJkNzE1R1dZLXktUXJrOVZvUFd1NE1qcTY?oc=5",
-                "published": "2025-12-03 07:33:00",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xVTBQcnkxVUFVU2Q5UllYUjZaY0NoNW51anMtWm53VTZaSUJtaXJVeDRMbW5YTDhvdFZyVWxYZEJkNzE1R1dZLXktUXJrOVZvUFd1NE1qcTY?oc=5\" target=\"_blank\">래리 핑크 블랙록 CEO \"토큰화는 금융의 미래다\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">블록미디어</font>",
-                "source": "기술 - 최신 뉴스 - Google 뉴스"
-            },
-            {
                 "title": "리닷페이, 리플 결제 연동… ‘크립토→나이라(NGN)’ 실시간 전환 제공 - 블록미디어",
                 "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2UWZUR3BTaXI5Z2RkMU4xMWd4OUo3eS1KVHhMOWhTc3VSY0JnX0ZBYWFsSzBreWlld0FSdWV3VWk0MVRyYnVjYW9iWFVnblFDWm52RGZ5ek4?oc=5",
                 "published": "2025-12-03 03:20:00",
                 "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2UWZUR3BTaXI5Z2RkMU4xMWd4OUo3eS1KVHhMOWhTc3VSY0JnX0ZBYWFsSzBreWlld0FSdWV3VWk0MVRyYnVjYW9iWFVnblFDWm52RGZ5ek4?oc=5\" target=\"_blank\">리닷페이, 리플 결제 연동… ‘크립토→나이라(NGN)’ 실시간 전환 제공</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">블록미디어</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSTUdIXy13emFuWFAybVRhdGtkaXl6M2x4LXlNSGc3S3pkU2FPZDNKTUkzb1FVQXFTZnlLVm11QUlsVERSamgxdFZ6a0hwdkE5cGMyVmdQVG9VOHVGNDRHWU5SU3Ridw?oc=5\" target=\"_blank\">리플, 리닷페이와 협업…\"가상자산 결제 사업 강화\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font></li><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1KYWludHRDZk01dHJBd25HUWRkQ2Q4MmI4d3VZTWI4X2VGcnY2d1lZQ3pNV2ZJU3BHX3FJU1pVUWtqVWJsZDQwTmZOQ0ZjX2VWYTl0eExKRlk4bkNDVnZGbkZueDJnZ0FtbEJTNTg0Z3U3eVU?oc=5\" target=\"_blank\">리플-레닷페이, 나이지리아 결제 시장 진출…XRP 활용 확대</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Sc3ljZWFFanpndHBuVGV3S2...",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "래리 핑크 블랙록 CEO \"토큰화는 금융의 미래다\" - 블록미디어",
+                "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xVTBQcnkxVUFVU2Q5UllYUjZaY0NoNW51anMtWm53VTZaSUJtaXJVeDRMbW5YTDhvdFZyVWxYZEJkNzE1R1dZLXktUXJrOVZvUFd1NE1qcTY?oc=5",
+                "published": "2025-12-03 07:33:00",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xVTBQcnkxVUFVU2Q5UllYUjZaY0NoNW51anMtWm53VTZaSUJtaXJVeDRMbW5YTDhvdFZyVWxYZEJkNzE1R1dZLXktUXJrOVZvUFd1NE1qcTY?oc=5\" target=\"_blank\">래리 핑크 블랙록 CEO \"토큰화는 금융의 미래다\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">블록미디어</font>",
                 "source": "기술 - 최신 뉴스 - Google 뉴스"
             },
             {
@@ -218,16 +225,9 @@
                 "published": "2025-12-03 00:30:26",
                 "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tWVAwYWJrT1M5Uzczc2JjRU5Rb3VDd1Y5VnRMWEVvekVqZUp1LXdBazh6RjFLdDFZZWhTUWR0Y2ZlbXhQLWRXd0YtMkdzd2hST1E?oc=5\" target=\"_blank\">“트럼프 가문 코인주” 아메리칸 비트코인, 락업 해제 쇼크에 30분만에 ‘반토막’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE93Rm9PMVBNc05pUmpqcktzU1BhXzdPdGJHejJDa3QwcTZRa0VfWmt0LVFyZUZXMVg2SlA5LXRQdXhoeHc0UGEyTDBweTF3by1LU2tqc0NOWEprdG_SAWBBVV95cUxPS0JZX0dBTFNxYjBJYkVNSzd6bU5SeUtMLWpsZFNpVVFWOGVkMmdtY29ScW1WTlM2MWpSWlU1dmRPblNoM21DZlRHbmFNUW5fR004c0tkTHNEc2t6aXduR3o?oc=5\" target=\"_blank\">트럼프 아들들이 투자한 비트코인 채굴업체 주가 40% 폭락</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE13TlplZ0Faa29EczFoNklqVTRCcm5DZkkydnJ3RGtxcFU3clRRc015eHJ5Nm56S2NDZHplM3J0ak9kaFlJTkZ3YXhhbVhkdW9xNHBNQ2N4YnV2UdIBX0FVX3lxTE5lU3lhX0hoTjhDeUdMU2FrUUJYeHA3cjloNzVUVXdQOXMwLWliUWdLeVVfQ2RjNWJDYVJxcDNfZjRZeWp5SDRUTE5BWDF4VVZhbkZaN...",
                 "source": "기술 - 최신 뉴스 - Google 뉴스"
-            },
-            {
-                "title": "이더리움 6500달러 콜옵션에 3.8억 달러 몰려…현물 약세에도 강세 베팅 확대 - 블록미디어",
-                "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kcDN6MHpjT0IzZzZoMUZsMWdyMUZtRXhmajg1VG9ibmRFR1hmSkgxbTZjN3Q4VmZsdnJRS1RjeXVCNzFKUzZ0cFVRRkd5enBKLUU4QXlkbGc?oc=5",
-                "published": "2025-12-03 08:35:00",
-                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kcDN6MHpjT0IzZzZoMUZsMWdyMUZtRXhmajg1VG9ibmRFR1hmSkgxbTZjN3Q4VmZsdnJRS1RjeXVCNzFKUzZ0cFVRRkd5enBKLUU4QXlkbGc?oc=5\" target=\"_blank\">이더리움 6500달러 콜옵션에 3.8억 달러 몰려…현물 약세에도 강세 베팅 확대</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">블록미디어</font>",
-                "source": "기술 - 최신 뉴스 - Google 뉴스"
             }
         ],
-        "updated_at": "2025-12-03 23:56:31"
+        "updated_at": "2025-12-04 00:23:30"
     },
     "2025-12-02": {
         "briefing": "Error generating analysis: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
