@@ -228,5 +228,242 @@
             }
         ],
         "updated_at": "2025-12-03 23:56:31"
+    },
+    "2025-12-02": {
+        "briefing": "Error generating analysis: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+        "articles": [
+            {
+                "title": "비트코인 돌연 폭발 연준 FOMC 금리인하 신호 - 글로벌이코노믹",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObC10UGRhQWR4d3BqZFFsVVBDZHI2b0RDTHpkX01BLWYtRjR3LXFpY1hPV3NkZjNjd0xoV05SZ0JEOFdBU3FndVRCSDVNeG5ZR3hFYnFscTRvRzhDVzZrVGw5Rzl3MFR5ZHZFVE5JOGJZUllJa2NKcGo3RzJpUnFHSHBCeUoyMHRE?oc=5",
+                "published": "2025-12-02 19:30:21",
+                "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxObC10UGRhQWR4d3BqZFFsVVBDZHI2b0RDTHpkX01BLWYtRjR3LXFpY1hPV3NkZjNjd0xoV05SZ0JEOFdBU3FndVRCSDVNeG5ZR3hFYnFscTRvRzhDVzZrVGw5Rzl3MFR5ZHZFVE5JOGJZUllJa2NKcGo3RzJpUnFHSHBCeUoyMHRE?oc=5\" target=\"_blank\">비트코인 돌연 폭발 연준 FOMC 금리인하 신호</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">글로벌이코노믹</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNaVMtbWxsWXhrYkthX2NIdVMwc2E1M3BiOEJnRkNncGlXTFI3dmFDVFUycExmMGlCSVk1SnpxRGJxSEdLaGxVWFlBZnlIZ1Q3TWNYUndmVWViUzNBNThDSjdUWEptZWF1NnBrR0FRd2RCbzVJeWJyTktVbzBYLWVsZXdTSlFVSFJDVUZ6Z25QVnJvY3h0WGF6SmdQM3RyZ9IBsgFBVV95cUxOcUNUY0JERHhvRG9KTlBLaXNkZ1l1ZjR0TDhOOTNBdl92NTRtd2t1djhPMy1jLVNmNlJpM0JHTTZvNzVELVBUWkt5VG0ybjFHMi1NbmFNQjFWSlFCOWozNTE2dXd5VFJ3cy1STkJOQTFaVE1TR1d6NWh0WEx1NTNuZF9sMkYwV3ZGZTd1UG16TXEwTzBpNXoxekJ2R3BheHNlN3ZwX2E4U2tsbl90RTFRd0hB?oc=5\" target=\"_blank\">반등에 성공한 비트코인 7%↑...美 국채 금리 소폭 하락</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font></li><li><a href=\"https://news.google....",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "“결혼자금으로 비트코인 풀매수했더니”…4만달러대 폭락 전망 나왔다 - 매일경제",
+                "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wVlg3Szk4SmE4azJlNmRmRFBtRTl2ZWZFWmluQjhUYUdNTlo4djdMSWY2d0ZaMTNJMWw3RTVYa2NMeDlqQVVjZDZxUHl6Vnd3QlE?oc=5",
+                "published": "2025-12-02 20:52:54",
+                "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wVlg3Szk4SmE4azJlNmRmRFBtRTl2ZWZFWmluQjhUYUdNTlo4djdMSWY2d0ZaMTNJMWw3RTVYa2NMeDlqQVVjZDZxUHl6Vnd3QlE?oc=5\" target=\"_blank\">“결혼자금으로 비트코인 풀매수했더니”…4만달러대 폭락 전망 나왔다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE05UTYxdWRQZUUxY0hhanU1WVRVRU5RVWxNYy1TOVhtUFVpY2ZkbHNtYjJUdWVSR1hOdUVPaGpOMVVVNDVoZ0hmZ3lGZ0hKM2c?oc=5\" target=\"_blank\">비트코인, 고점에서 30% 하락했는데…“4만달러까지 반토막 난다” 전망, 왜?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font></li><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9JTWRLRk5hTnhWbXkzS24xeXM5Tk1iSTFlN3pKSXpqSlg5RHVReFo3ajFkX2tKaXFVR0lNYlVEOXlhVEV0TWpGQ0piaGs3R2NnWGVpRC1hZjhGUGRHeXZRZWIyT2NQdVNXSnI1c3hpZHE5WjQ?oc=5\" target=\"_blank\">비트코인 시세 하락은 '전화위복' 평가, \"기관 및 장기 투자자 비중 상승\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">비즈니스포스트</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VUUp4aTIzazFEM1BJa3BhVm9OYjVoNFpIZD...",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "연준 FOMC 금리인하 \"급선회\" ...보먼 부의장 연설 - 글로벌이코노믹",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPME5GbUZwVlRZakJjZVQteVJtRUFqVVAxMWtGVjZSRnpibHNZQUxBV2F2ejFmNHpzbUhjS3l1MVQyTTZUTm14WHMtX1gtZy1yaVhOaG4wekY0b1Q5RGRfYURMS2tyVHdyNzdLaktOMnVvX0ozSjMzRFF3UjFPZXdUdFhvSDZGMl9X?oc=5",
+                "published": "2025-12-02 15:00:00",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPME5GbUZwVlRZakJjZVQteVJtRUFqVVAxMWtGVjZSRnpibHNZQUxBV2F2ejFmNHpzbUhjS3l1MVQyTTZUTm14WHMtX1gtZy1yaVhOaG4wekY0b1Q5RGRfYURMS2tyVHdyNzdLaktOMnVvX0ozSjMzRFF3UjFPZXdUdFhvSDZGMl9X?oc=5\" target=\"_blank\">연준 FOMC 금리인하 \"급선회\" ...보먼 부의장 연설</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">글로벌이코노믹</font>",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "“테슬라에 탑재된 중국산 LG 배터리, 고장률 심각” - 글로벌이코노믹",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOEd6czI2WWY4cnRJMXFXb3NJbnVsUExLczZpTTRDYjRYZjhOb19RamNyLTZVVUVyN2VRTUVGTFVUUlhMWDhaMjU5NXBWMElMSGg2b3ZQWjV2VEdHbnFXd0xiUEY5ZExONGdxbE9VN0l3aldJOVhLNS1qWnpzc3Z6VTJaOTRoSVk?oc=5",
+                "published": "2025-12-02 21:00:00",
+                "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOOEd6czI2WWY4cnRJMXFXb3NJbnVsUExLczZpTTRDYjRYZjhOb19RamNyLTZVVUVyN2VRTUVGTFVUUlhMWDhaMjU5NXBWMElMSGg2b3ZQWjV2VEdHbnFXd0xiUEY5ZExONGdxbE9VN0l3aldJOVhLNS1qWnpzc3Z6VTJaOTRoSVk?oc=5\" target=\"_blank\">“테슬라에 탑재된 중국산 LG 배터리, 고장률 심각”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">글로벌이코노믹</font></li><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9maFUtaF9GNHN6c1gtSlhlQjJwV1ZxSUlwQkNrckhWbVhHRlNwX1plcG8yNXVWWTRyTEYxalZwb2UwR0RSRFJSaDIzcXRCX2NobXEyeXRYdzNZREhLSnVuUmxLZlFuQUswVEl1aVZDR3ZFRTA?oc=5\" target=\"_blank\">유럽서 테슬라 배터리 제조사별 고장률 비교, \"LG엔솔이 파나소닉보다 높아\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">비즈니스포스트</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE51c1RhWDNpLWVOZmNsdFM3QXFVTHdiT3AyRGNhMmxwSVk2TVJWYnZkNmhGSnRMbm5HbTNaeG84VnRkQ2U0dnJxQllSbUhsRlhGUmc1V3V6RUhMaU51b2k2aTlB?oc=5\" target=\"_blank\">[단독] 테슬라 전기차 배터리 오류 논란…국토부 조사 착수</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이코노미스트</font></li><li><a href=\"https://n...",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "[현장] \"폰 3개 쓰는 느낌\"...갤럭시 Z 트라이폴드 써보니 - 지디넷코리아",
+                "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOYjA0LWg1aWROa05xLUs0dnFSdTF1RWJWeEVaRE0zSHBwSFZpT3NvMWhXSU1vZVUwZ1llVlJDQi1kbmEyc1lDSEJPRHlkZ3NRWWUydVdR?oc=5",
+                "published": "2025-12-02 04:32:54",
+                "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOYjA0LWg1aWROa05xLUs0dnFSdTF1RWJWeEVaRE0zSHBwSFZpT3NvMWhXSU1vZVUwZ1llVlJDQi1kbmEyc1lDSEJPRHlkZ3NRWWUydVdR?oc=5\" target=\"_blank\">[현장] \"폰 3개 쓰는 느낌\"...갤럭시 Z 트라이폴드 써보니</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">지디넷코리아</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE82MXFmczFPbHp4LXhTS3ptMUFaZkUyRXJTYmVxTlgtbFhDb0QzVlM5YWphdEdyN25mRXJMT3UySWNzUGVuVkE2OTVudVhUOWNHU2gzSzl6OGNJZnRsUzVXT3hqT0M4dzFyMVpEa2NhSzBpZFVPNTlfRVRjRzhXYTQ?oc=5\" target=\"_blank\">삼성 '두 번 접는 폰' 출격...한·중·미 '접기 전쟁'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YTN 사이언스</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxS0hlN2JVdUlhMlNCLURTdGliSWw1Y1Ixb0dVVnliTjZDNEtIT1VvY0dMYmZzSFdNN3pPWHBNSElMRURGSHZ4b0YyaHFjNFJPcHNwWA?oc=5\" target=\"_blank\">“대대익선이지” 쫙 펼쳐진 태블릿 크기 화면 ‘시원’…휴대성은 글쎄?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tTWxZQlVZM3BwSnRaMS1kTUJQY...",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "삼성, 내년 엔비디아 소캠2 물량 '절반' 공급 [강해령의 테크앤더시티] - hankyung.com",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13WWlFZTJZVl9hczNJQS02d1Byc1lRTFlVdVdYVUF3V2ZxUVhVd3R2cENvZTRHWi1hdDZfenNWcVYzMzlLaElkdnhUVVZOR1ZxTkVLYnFpQUZhUdIBVEFVX3lxTE4tT2pZNEc3TEZ0U2JEOVVtUGs5VE9UbEx6SU1WdDJ1cmc1eGNveTFKY0ZfcjBaTzBuQWRGTkJ6MGdWQVhhVkcwZXN0NEcwcHRQRzlLdw?oc=5",
+                "published": "2025-12-02 21:59:01",
+                "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE13WWlFZTJZVl9hczNJQS02d1Byc1lRTFlVdVdYVUF3V2ZxUVhVd3R2cENvZTRHWi1hdDZfenNWcVYzMzlLaElkdnhUVVZOR1ZxTkVLYnFpQUZhUdIBVEFVX3lxTE4tT2pZNEc3TEZ0U2JEOVVtUGs5VE9UbEx6SU1WdDJ1cmc1eGNveTFKY0ZfcjBaTzBuQWRGTkJ6MGdWQVhhVkcwZXN0NEcwcHRQRzlLdw?oc=5\" target=\"_blank\">삼성, 내년 엔비디아 소캠2 물량 '절반' 공급 [강해령의 테크앤더시티]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">hankyung.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zbnJZaDJTRmdMTUpEYmRHZHpETjhxNFpHNFVMUG1Pd1VJOG9LclFTWk5VNjhWSWc2dmNJSDJQdUlJb0RhYnFzeVYtblEydzQ?oc=5\" target=\"_blank\">삼성전자, HBM3E 생산 감소…1a 40% '범용 D램' 전환</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">딜사이트</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpaTF1S2hXVFRWenA3WHNrYk5MTzAyTU8wTXFYQ2VzQUJQVmgyMmRLdjdTWTgycEtJcWNtbmRNWVJwZHJzZ25JRlFMYkZMUHVPR1dwREg5aTNBUdIBVEFVX3lxTE9qaGVwSElXZ2I5b3pyTF9OQ0lISWlQamd2WXJHbXlUc0txeHdSb0hsWDlSSHoydTMyUnZHWVEwMWtzR0pEOER2d1J6dWZkYzNhRmd4SA?oc=5\" target=...",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "젠슨 황, '치맥 회동' 약속 지켰다…개미들 환호 쏟아진 회사 [종목+] - hankyung.com",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuUTdrNGF4NzZBVEdXcmdqSjlwSktyYUZGMWI2TUt4YXp3Y09aQ3Qxekk0dkVCRjZLbktPSTRuUTFQclZYNXJGSFNSMi1lWXhQQm9TeFFxbm04UdIBVEFVX3lxTE5pYzZEVThDc05YVWlTQ0F2aUNvdGdSOU9IT2NVSnc2Z2hFZWMwLTAybno2R094elgwX2Y4cnB0aFNFaUpnUDlBREF0dmhxUzVxUzEwRQ?oc=5",
+                "published": "2025-12-02 13:00:01",
+                "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuUTdrNGF4NzZBVEdXcmdqSjlwSktyYUZGMWI2TUt4YXp3Y09aQ3Qxekk0dkVCRjZLbktPSTRuUTFQclZYNXJGSFNSMi1lWXhQQm9TeFFxbm04UdIBVEFVX3lxTE5pYzZEVThDc05YVWlTQ0F2aUNvdGdSOU9IT2NVSnc2Z2hFZWMwLTAybno2R094elgwX2Y4cnB0aFNFaUpnUDlBREF0dmhxUzVxUzEwRQ?oc=5\" target=\"_blank\">젠슨 황, '치맥 회동' 약속 지켰다…개미들 환호 쏟아진 회사 [종목+]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">hankyung.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE15WHdLRV9MQ2o2eWpVYk5KSGtRLVRZdktLTVFack9QVnVGbmUwanNWVjZEVEJzcVhZUVU5Z3Jldms0QTAwUHVtcElwakdMWlU?oc=5\" target=\"_blank\">[애프터마켓 리뷰] 엔비디아 GPU 물량 국내 도착…현대오토에버 급등</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font></li><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE4yRk5RaFZlZEMzVVRSMHF5SG5ESjZSX3hVNmMxanJqSWlzVC1abVFkRDAwbmN2ZUpUWThVdXV0MEhkYkxwRGFOVjZESUxCbXVsQW9ENFdaRDNRclBlNWl3ZjVvaEdRMUhmZzZxLVk0aWk4STQ?oc=5\" target=\"_blank\">현대차 제조공장에 'AI기술 적용' 한계, 엔비디아 협업이 돌파구 되나</a>&nbsp;&nbsp;<font colo...",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "구글 제미나이 추격에...오픈AI ‘코드 레드’ 선포 - 조선일보",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdjNFaWhwSHUxQ3lpMEkyTWk2bUUxRDMzb29IT1dxNl9hbmg5Q2NJdW16R2g3Z0xUUWpXb05VeW9wT2JrOWtOdlA4eEJDS3V2N0JfLW1JSDE3V2NVUWxBdzlTT1dTTEcwQjhUUVRBOEpoRHNpVDM4amFGTlJHZDQ5UGhWa9IBlwFBVV95cUxNelREYjZiV3JnaU1HRGlOeHVlMEVuTWVRTEJnQmlEQVZ5dGV4SmhQVDdWUVczcDQ0REVPLU4xRE9mNmoxYkNsWlVYdWhDNkh3R0hkM094SXpaSFhUNzFjdGFDRUhEWUVJbWQxcDJ0c21lRFpodnQ2SVpDejdoNUhfUGw3ZDZ4d2FyRko4SFA4c05RemJTYnpr?oc=5",
+                "published": "2025-12-02 07:45:00",
+                "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOdjNFaWhwSHUxQ3lpMEkyTWk2bUUxRDMzb29IT1dxNl9hbmg5Q2NJdW16R2g3Z0xUUWpXb05VeW9wT2JrOWtOdlA4eEJDS3V2N0JfLW1JSDE3V2NVUWxBdzlTT1dTTEcwQjhUUVRBOEpoRHNpVDM4amFGTlJHZDQ5UGhWa9IBlwFBVV95cUxNelREYjZiV3JnaU1HRGlOeHVlMEVuTWVRTEJnQmlEQVZ5dGV4SmhQVDdWUVczcDQ0REVPLU4xRE9mNmoxYkNsWlVYdWhDNkh3R0hkM094SXpaSFhUNzFjdGFDRUhEWUVJbWQxcDJ0c21lRFpodnQ2SVpDejdoNUhfUGw3ZDZ4d2FyRko4SFA4c05RemJTYnpr?oc=5\" target=\"_blank\">구글 제미나이 추격에...오픈AI ‘코드 레드’ 선포</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNSnJ4Y19PcWhHZngyWkdUMGIwVnJxZlNHR01RSF9wZV9JTUZoeDZySWpNU1hpcGlrRUlTTDh6ZXpoT1JJU3N6R00zbVAtY2ViX1BQeEY5TUI5dFBXdUE3a3NmVXFYeVpuZUFjQmk2d2ZLcVZRLW5XX3dDdHctdzNmM0FzRdIBlwFBVV95cUxNaEdzbjdOZkVabU1jRTFRclhaTmVVZXdRUGZjQkcycUNIQmJoTmJBUW0tUURJNl9ZWFJYQTVqYmYtM3J2U01PTDJjOXZQRDBZc2tDamZwZGlNV2llXzMxRC16MGVBcXktYzBTbHFSeXl0S3lnZ1FyNWRHeWxPNms0ZklaN0s0dEw3Vjl2WnJUbTM1ckhidkdJ?oc=5\" target=...",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "벌써 2차 피해? G마켓서 60여명 무단 결제 사고…금감원 신고 - 매일경제",
+                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TX2FnUjV3MnYwNDYwYmRDNzVvMV93Z3dFX1UtQTVaWC1VeUw4dV85SVJBZ1BJZnV5N0VVYzdVTWNFSHA3NW5TZEJFUldDbm1sLWFYRg?oc=5",
+                "published": "2025-12-02 12:13:02",
+                "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TX2FnUjV3MnYwNDYwYmRDNzVvMV93Z3dFX1UtQTVaWC1VeUw4dV85SVJBZ1BJZnV5N0VVYzdVTWNFSHA3NW5TZEJFUldDbm1sLWFYRg?oc=5\" target=\"_blank\">벌써 2차 피해? G마켓서 60여명 무단 결제 사고…금감원 신고</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pLXpxVXBvcGFteFNjZ1lGVW9Yc182akh2MlRnMVBCNjBPUmV5RE5IN0xKSmNXWEI3U0dfSU9QZk9qR3JyaU5wSkhGV3VLVWs?oc=5\" target=\"_blank\">“결제정보는 안 털렸다더니”…쿠팡 등록 카드서 300만원 무단결제</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNRkI4NW5uRUtuM0xKanhLQW5FZDRKZlJXLTI3QkI5eEF1MVlTQlYzR25fYkJ6WXlzcjhaamd3V19FZW9oVVRsU0hIZVFYaUlPRUdwZmVQeFcyUdIBX0FVX3lxTE1JZk9lODR0LWhBNngtRVBxQjhhaENZRlpCVVFUai1tUFNPckt1U1Z0ZmNjWml1V0pJUUtYSzlvcEhOZXN6Z3puMXY3dHJDQ3c4Nm5uUHp6OHBVR3poWlFB?oc=5\" target=\"_blank\">G마켓에선 ‘무단 결제’ 사고…e커머스 보안 ‘빨간불’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경향신문</font></li><li><a href=\"https://ne...",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "“한국인들 데이터 유출됐어도 쿠팡 계속 쓸 것, 손실 제한적”···JP모건의 씁쓸한 전망 - 경향신문",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zT1VRZWJUbEFxaTdxTlFDNGdfQmZWLW5UdjNoQmUxVkxpNEJoX1lTWEozSjF4WTR4b3N1OFRVdF9BemNkWS1FOE9sMUZ3Y3dwSGN6YzdfUEdzZ9IBX0FVX3lxTE1RYWo4dFNRLTVuY3ViR3piQjZiYkVRbkhuOC0tN29sNmVUQmZTbFZOMVJNX1V4TUwweWJiUmZMeXVSa09RRHpiUVktNVpQdDBmcFhYU0xIN05uS2t5UGJJ?oc=5",
+                "published": "2025-12-02 07:29:00",
+                "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zT1VRZWJUbEFxaTdxTlFDNGdfQmZWLW5UdjNoQmUxVkxpNEJoX1lTWEozSjF4WTR4b3N1OFRVdF9BemNkWS1FOE9sMUZ3Y3dwSGN6YzdfUEdzZ9IBX0FVX3lxTE1RYWo4dFNRLTVuY3ViR3piQjZiYkVRbkhuOC0tN29sNmVUQmZTbFZOMVJNX1V4TUwweWJiUmZMeXVSa09RRHpiUVktNVpQdDBmcFhYU0xIN05uS2t5UGJJ?oc=5\" target=\"_blank\">“한국인들 데이터 유출됐어도 쿠팡 계속 쓸 것, 손실 제한적”···JP모건의 씁쓸한 전망</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경향신문</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zQnlRcjRmYVVHa1REdUZHR3FmdnA1NWxBRldZMXRIWnZWRm9hWWlUQkV2TmhnV3FqelNDQkFVSklfSXcwd2FhSWJFS3MxVFBndjhjV0hn?oc=5\" target=\"_blank\">박대준 쿠팡 \"탈퇴 과정 즉시 간소화…피해자 보상도 적극 검토\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">지디넷코리아</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKN2U3R0owc3VDQjFMWTBZZmUtSHRxLVZoTDRCR1hCT185RTdMZTk4Zzc2ekhFdF9GTDlHVTdxNE9jb0IwSkM3bkI5dzVPaVZkTVZiQ1hsRjdtM0nSAWBBVV95cUxQXzJfcEdKSS1PZW1OQUR1bnBVUXVod1VXeUk3WVp2UU9ueUZldVl4c0VXa3MwT3B2WmM5aVhTRmIxWXpVb09GQ3cydj...",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "Wayve, 독일 퀄리티 매치 인수…자율주행 데이터 신뢰도 강화, 슈투트가르트 시험센터로 유럽 입지 확대 - тарантас ньюс",
+                "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYWJaZW96a05BeFc5QXg4bjY4MTQyLVAweDV1cjhRNTZMUU5nNU9ZdzRNSmNvbjYtTlBYeFpXdVRad1llcVFFWV96YlotNDNOa3FMYVlJTGhBeTZUY0JvUWw0MEJqcXZQYU4yZXFqRG5JdUFWNndUX1Y4ZTdtWGw3bmVsMi1MNy12cDMxY0lGNThRUGRPSjRIREJVSHdCXzBkTmJCQ1lvMFlvcDJIQXcxcU1qbjlydUhxcEVrR0R6bzhpLWM5emdwUGx2T0FzblM1dVNJdHZLVzdBSVRPVFczOGxhc0tpOWhqQXlWb1NtdDRxUTTSAfcBQVVfeXFMTkRfQ01JM2VQSFRTMXZpbjg1QVBKWUZ1Wjk3V0plR3VmRlQ4bEhQbWhEWFA1Wi1ncVhBT1RLZTRISHg1eGNqMzdMcjNmN25KWFpqenFQb0JiLU1zMjhiNUhmWERBbV9aTzM1LVVZS2VaUFRyLW50NjFMU1VLQTl2dkpVeVJlXzlTYUhlbUE5YW1kTlI1ZEE5T1Bfd1RZdTJ5LU1RUmRDQmlySlJhVVJrdnc4SEt5SUtuLU5fS0NwcUtfekdHWWYyazFpSkFXcHlYNWRBSE1ZMERHblZGejZIRHRUUW1vaVZ4c0RxQmtJWnJFWmxxVUVfRQ?oc=5",
+                "published": "2025-12-02 20:17:36",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYWJaZW96a05BeFc5QXg4bjY4MTQyLVAweDV1cjhRNTZMUU5nNU9ZdzRNSmNvbjYtTlBYeFpXdVRad1llcVFFWV96YlotNDNOa3FMYVlJTGhBeTZUY0JvUWw0MEJqcXZQYU4yZXFqRG5JdUFWNndUX1Y4ZTdtWGw3bmVsMi1MNy12cDMxY0lGNThRUGRPSjRIREJVSHdCXzBkTmJCQ1lvMFlvcDJIQXcxcU1qbjlydUhxcEVrR0R6bzhpLWM5emdwUGx2T0FzblM1dVNJdHZLVzdBSVRPVFczOGxhc0tpOWhqQXlWb1NtdDRxUTTSAfcBQVVfeXFMTkRfQ01JM2VQSFRTMXZpbjg1QVBKWUZ1Wjk3V0plR3VmRlQ4bEhQbWhEWFA1Wi1ncVhBT1RLZTRISHg1eGNqMzdMcjNmN25KWFpqenFQb0JiLU1zMjhiNUhmWERBbV9aTzM1LVVZS2VaUFRyLW50NjFMU1VLQTl2dkpVeVJlXzlTYUhlbUE5YW1kTlI1ZEE5T1Bfd1RZdTJ5LU1RUmRDQmlySlJhVVJrdnc4SEt5SUtuLU5fS0NwcUtfekdHWWYyazFpSkFXcHlYNWRBSE1ZMERHblZGejZIRHRUUW1vaVZ4c0RxQmtJWnJFWmxxVUVfRQ?oc=5\" target=\"_blank\">Wayve, 독일 퀄리티 매치 인수…자율주행 데이터 신뢰도 강화, 슈투트가르트 시험센터로 유럽 입지 확대</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">тарантас ньюс</font>",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "[단독] 보스턴다이내믹스, 로보티즈 액추에이터 구매 - 지디넷코리아",
+                "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QNEp0SElESnJZS2V5dXRLLW5GLXY1YVpBMDJFSzloa0tsYUQtQ3NrRmlWdXpJbWZhckRvLV9xZzRxYmgwOGRxRHA4d3NJdWNYVFpvVThR?oc=5",
+                "published": "2025-12-02 00:43:19",
+                "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QNEp0SElESnJZS2V5dXRLLW5GLXY1YVpBMDJFSzloa0tsYUQtQ3NrRmlWdXpJbWZhckRvLV9xZzRxYmgwOGRxRHA4d3NJdWNYVFpvVThR?oc=5\" target=\"_blank\">[단독] 보스턴다이내믹스, 로보티즈 액추에이터 구매</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">지디넷코리아</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SLUE2MjdKYkREZlR3VWljd2xnR1R0UlBsNjNmM09ocVl6aVN2ZkNBUm1jTHBnZHhRTXdZZ2VGbllpWmJaSm93aDVwcFc0WVczbDVxeA?oc=5\" target=\"_blank\">‘AI·로봇’ 국내 첫 기업·근로자 인식조사…결과는? [AI 산업혁명]①</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font></li><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1icVJ4aS1oZ0hYOTFUbE1Kbks0aWNoUW84NERPcGlaWFZ2WXZPRnFYd085NzNfbEJnUTZnWUVTSmh6S3h6S0puLUxVTGZ5blVOVmlYQUJNTmUxa04xVVB6LTlMSWRKcW1SU2piQmZBTXhCSVZ6SHNMcVM5dw?oc=5\" target=\"_blank\">5兆 달러 휴머노이드 시장 … 삼성전자, 존재감 커진다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴데일리 경제</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WUTlkYVVkaFJBQ01qRC1lWnNIRUFmN3dQ...",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "아이폰17e, 곧 나온다…어떤 신기능 탑재했나 - 지디넷코리아",
+                "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfaUlKMW0tUVVCTEktTVVTTkxJVnRhSjFOZVVadWdteTRwbUE3Um1URE14b1ZjOVNkMUZWWmU3RndXM3pmNl8zaWpnUEs2OUx3ZzV4cndn?oc=5",
+                "published": "2025-12-02 23:49:55",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfaUlKMW0tUVVCTEktTVVTTkxJVnRhSjFOZVVadWdteTRwbUE3Um1URE14b1ZjOVNkMUZWWmU3RndXM3pmNl8zaWpnUEs2OUx3ZzV4cndn?oc=5\" target=\"_blank\">아이폰17e, 곧 나온다…어떤 신기능 탑재했나</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">지디넷코리아</font>",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "\"제미나이3 성능 맞먹어\"…딥시크, 새 AI 모델 무료 공개 - 지디넷코리아",
+                "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtSFpDYlk3U19fbXNMYWFwdXhoUGhPOXhwYldDMG9mRy1fZ1c1TC1RVlZOckpFX3ZDUm1SeFNyV21iT080d3E1QWwxREtVUlRXSGlXamh3?oc=5",
+                "published": "2025-12-02 01:07:58",
+                "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtSFpDYlk3U19fbXNMYWFwdXhoUGhPOXhwYldDMG9mRy1fZ1c1TC1RVlZOckpFX3ZDUm1SeFNyV21iT080d3E1QWwxREtVUlRXSGlXamh3?oc=5\" target=\"_blank\">\"제미나이3 성능 맞먹어\"…딥시크, 새 AI 모델 무료 공개</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">지디넷코리아</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB5SzcwMnNsMDVENUF2WmQ0cWlmQkFNUGVscU1rdklGUUw1aFJBM2FGRTV6REhjZV9za2dCY3BpVURxWnhVVHAwLUlvdExMRThnRGVLVDh5T0hucjJRLVYxMnV3Y2ZFWW1rZnc?oc=5\" target=\"_blank\">문샷AI·미니맥스, 딥시크 넘어 미국에 맞설 ‘최강 경쟁자’로 부상</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI타임스</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQaTVhVzRaS2ZIV2NzbF9zOEUtc2JXdXU3QWM0QWl4amNQam1WSWhkSnpLRjZXZHhQZHktd3ZpMzhES185dUU4Snd0Yng0YkZfclpHZnF2SWU4Zm51Ukk2eGRuVGtNaG9NX3dzOEJJNGQxRzlUMlJzd3BFTWJzSXUweVMyMNIBlwFBVV95cUxQSWNMWDhiSENXV202ZjFhYXRwWjgtMXQwZ0w4bHc4MnFCZllBZWdDa2taRURMcllRZWNKdFQ4Nk9IVGMyWk80b0ZmdmNTQmd2Ul8zN3F3N2JJNlZHR1hUM0h1cUo3SVhWWDFhLUV6UWR1TmN0M2Y1Q2xWUnNy...",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "1.5조 쓸어담았다…서학개미들 엔비디아 팔고 몰려간 곳이 - v.daum.net",
+                "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QS19kZ0NUZ2tQX2ZkQ1RhakRBRGZMSzB3MHRWNE54ODNJYWpDOTFwdnNGeGdWNmxxdTE1YUFJdUMwYTlOOWlCSWhJek9YaUE?oc=5",
+                "published": "2025-12-02 08:47:00",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QS19kZ0NUZ2tQX2ZkQ1RhakRBRGZMSzB3MHRWNE54ODNJYWpDOTFwdnNGeGdWNmxxdTE1YUFJdUMwYTlOOWlCSWhJek9YaUE?oc=5\" target=\"_blank\">1.5조 쓸어담았다…서학개미들 엔비디아 팔고 몰려간 곳이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font>",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "[겜ㅊㅊ] 스팀서 99% 긍정적 평가 받은 '압긍' 신작 5선 - 게임메카",
+                "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02cEE2RW1hLVZPRU1OMjBGUFpJVVFVMHlMZjRJVHlRTGhNUWVrdnRsWXM2bEpTN2JFMVd4RUNhZTRid01vMmI2YXg1b010UHc2UVBsTU1SREbSAVtBVV95cUxPR1Q4NGxDRzF1SkxIMTFWTUJvcmsycnBCam5WWmh1ZDZ3bWlWdVBNYUtVWEpVNkJRU0NDMGxHY3VJeUl2Y1NPVUxJUkZ5bURlYlhjMWFZX1VrVUNn?oc=5",
+                "published": "2025-12-02 07:58:51",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE02cEE2RW1hLVZPRU1OMjBGUFpJVVFVMHlMZjRJVHlRTGhNUWVrdnRsWXM2bEpTN2JFMVd4RUNhZTRid01vMmI2YXg1b010UHc2UVBsTU1SREbSAVtBVV95cUxPR1Q4NGxDRzF1SkxIMTFWTUJvcmsycnBCam5WWmh1ZDZ3bWlWdVBNYUtVWEpVNkJRU0NDMGxHY3VJeUl2Y1NPVUxJUkZ5bURlYlhjMWFZX1VrVUNn?oc=5\" target=\"_blank\">[겜ㅊㅊ] 스팀서 99% 긍정적 평가 받은 '압긍' 신작 5선</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">게임메카</font>",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "‘인공지능 대부’ 제프리 힌턴의 경고…“일자리 대체·빈부 격차 심화” [AI 산업혁명]② - v.daum.net",
+                "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HMWNJSUgzejlMamN5VHB0U2lCT0dKN3dxSXdoN2pwWkt4d2lDU1phVjV4YzhKUHdjRGtPclF3NVZ5Z3JuOWJNQUNNb3JJZzQ?oc=5",
+                "published": "2025-12-02 22:01:00",
+                "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HMWNJSUgzejlMamN5VHB0U2lCT0dKN3dxSXdoN2pwWkt4d2lDU1phVjV4YzhKUHdjRGtPclF3NVZ5Z3JuOWJNQUNNb3JJZzQ?oc=5\" target=\"_blank\">‘인공지능 대부’ 제프리 힌턴의 경고…“일자리 대체·빈부 격차 심화” [AI 산업혁명]②</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sNmI2MC1TdVc2eUZTaUdCRzNNdW1ZZjZtNUM3UWlpd3V3SGdBajVvWnl1N19WZkZ0MjhjT2FiTTFhQ2htbTNWRjdjUGp1QzItUVJocA?oc=5\" target=\"_blank\">AI시대에도 구호만 앞선 정책들 [매경포럼]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZEF2cllKZUVpYTdSekNkTHBUbWpKWExqSFZURG5CSGI5aGFzRTY3WEZnT01ZTTcxZXZyb3BqT0ZmY25hMHF6RV9WWDJ0d0xjcUJ5dXFfU0d4b2E1QWdQMXRTRVh4LTZVSEtxYk9kOTdRMjI0bnMwNmFocHlHWU1FNzhPUklhZ21M?oc=5\" target=\"_blank\">[초점] \"사람 내쫓은 AI, 세금도 내라\"…빌 게이츠의 '로봇세' 경고, 8년 만에 현실로</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">글로벌이코노믹</font></li><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9...",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "“귀걸이인 줄 알았다” 여성 귀에 달린 ‘이것’ 난리…대체 뭐길래 - 헤럴드경제",
+                "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44Ung5MnZDQlhZSS1tU2o2dnJfd1VUZ1FPY2l6LTZ6MXhfYzllTHdzb3VkNnQ1VHpwcHF3cFgzYVNQRFhDZFBNZzZxRUZLalFkX1RyX2Jn?oc=5",
+                "published": "2025-12-02 09:40:00",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE44Ung5MnZDQlhZSS1tU2o2dnJfd1VUZ1FPY2l6LTZ6MXhfYzllTHdzb3VkNnQ1VHpwcHF3cFgzYVNQRFhDZFBNZzZxRUZLalFkX1RyX2Jn?oc=5\" target=\"_blank\">“귀걸이인 줄 알았다” 여성 귀에 달린 ‘이것’ 난리…대체 뭐길래</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">헤럴드경제</font>",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "메르세데스-벤츠, 하일브론 IPAI 합류로 제조 AI 혁신 가속·유럽 기술 리더십 강화 전략 - тарантас ньюс",
+                "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbHl5Y3ZqNEwwNlktSDh1bUtqMlhZVnZGbml2dDcteHRCcmxtalg2QURfb0YxRldSUlV1NWJIcThFbk90Wkt6OUJwcER4X3daRzZNQjZuUW1FSGRmdnI5QW9EZzZvcTZmLXZHQk53QVhrUjF4cjVUUWZyX29YM0NPTE41SjE4SlYybTBJSXhkd0FHTlRtdWlUTXVvZ2R3NzlBbmRPLXBULUlnY1F5MUxWZG9CczBoQjFCN1hjQlRGVXBTSjZRR2pTaTFZX09FdXB1VHM4bHRGeUVTdnpj0gHgAUFVX3lxTE1OZ255QkFwdmNKS1pQWUY5aVdTSHBZRnZxRDEyNE1oS2RpbDZfbEVfR0x2TnVtSnRhUVd0cF9mQlRGM2Y5ZHZ1a2h5bUhFT0ZyU1E1OUhJV29NQlFIV2hubVBIYUphRUFiSW5sdkNUaWR4RE5faUt2d09uMEo5NGxuRTBxSmVWbWFKZXBES191VTlCcFlIMFJKQXNBS2VZcmZFVjZOT0h4VkRZRnpVZ2l6cU9PQXB4MmRjbHROb0dNTHhTbERmbi1teGFINlRhV0hyMUZZV2I0UlhnM3d1SjJO?oc=5",
+                "published": "2025-12-02 10:09:29",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbHl5Y3ZqNEwwNlktSDh1bUtqMlhZVnZGbml2dDcteHRCcmxtalg2QURfb0YxRldSUlV1NWJIcThFbk90Wkt6OUJwcER4X3daRzZNQjZuUW1FSGRmdnI5QW9EZzZvcTZmLXZHQk53QVhrUjF4cjVUUWZyX29YM0NPTE41SjE4SlYybTBJSXhkd0FHTlRtdWlUTXVvZ2R3NzlBbmRPLXBULUlnY1F5MUxWZG9CczBoQjFCN1hjQlRGVXBTSjZRR2pTaTFZX09FdXB1VHM4bHRGeUVTdnpj0gHgAUFVX3lxTE1OZ255QkFwdmNKS1pQWUY5aVdTSHBZRnZxRDEyNE1oS2RpbDZfbEVfR0x2TnVtSnRhUVd0cF9mQlRGM2Y5ZHZ1a2h5bUhFT0ZyU1E1OUhJV29NQlFIV2hubVBIYUphRUFiSW5sdkNUaWR4RE5faUt2d09uMEo5NGxuRTBxSmVWbWFKZXBES191VTlCcFlIMFJKQXNBS2VZcmZFVjZOT0h4VkRZRnpVZ2l6cU9PQXB4MmRjbHROb0dNTHhTbERmbi1teGFINlRhV0hyMUZZV2I0UlhnM3d1SjJO?oc=5\" target=\"_blank\">메르세데스-벤츠, 하일브론 IPAI 합류로 제조 AI 혁신 가속·유럽 기술 리더십 강화 전략</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">тарантас ньюс</font>",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "뉴욕증시 암호화폐 이더리움 리플 ETF 대거 이탈 - 글로벌이코노믹",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcUY5OVljRDdtcktwSUQzaDZqSmtTVUd2TUVtNHBqTU4tcS1FVndLcTY0azIzcEZkVkZraXAwRXJBVDlwNXFuM192dy1qV3luSGEtR2xnbGltYzdnbzFvTDVjel82OXl5NlV0NUVQUEZacDFfbUZJLTBrYXc5TnA2R3ByWHpLWjA?oc=5",
+                "published": "2025-12-02 15:05:00",
+                "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNcUY5OVljRDdtcktwSUQzaDZqSmtTVUd2TUVtNHBqTU4tcS1FVndLcTY0azIzcEZkVkZraXAwRXJBVDlwNXFuM192dy1qV3luSGEtR2xnbGltYzdnbzFvTDVjel82OXl5NlV0NUVQUEZacDFfbUZJLTBrYXc5TnA2R3ByWHpLWjA?oc=5\" target=\"_blank\">뉴욕증시 암호화폐 이더리움 리플 ETF 대거 이탈</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">글로벌이코노믹</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HcUVIMHl0dVk1RlRlRHJ3LVc0NzFXV1Z6X0FkS2RtbTRrZDQxNnh3T1V4WV9DT1lLNURwSjBEMWZwNHI3c29sbVE3ZnN6QThEUTFqSF9hSVU?oc=5\" target=\"_blank\">\"비트코인 폭락에…하버드대, ETF 투자 최소 14% 손실\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oWXRrWmV4Mmt6TUdhcjlrSE5aOWdBbHNwcE0yMzFZYVEwM2tIZ1RWMnM5bHA4X1VQYkJPZVN6czh5UWZjaGQ3NWYxNm1TTDg?oc=5\" target=\"_blank\">암호화폐 베팅한 하버드대…가격 폭락에 손실 커져</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font></li><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBjNEI4SEdJZVJyOUYtemZiN0NzSnhRdmZwSF...",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "그레이스케일 \"비트코인, 4년 주기 깨고 2026년 사상 최고가 전망\" - 디지털투데이",
+                "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FNmh3ZFQ5b0g5Qnc5U2gyaC0wZmsxSlhKX0VUMDVheVpnUEdsUHJZNXRfQld2WHotVU5MSEdfOThfMXlYVWcwN3ljYXRkd1dQUzB0ZzVmTXY4aHQ2cENsejF6SjZOVWtZX2N1aVhEbW5CNVE?oc=5",
+                "published": "2025-12-02 23:34:13",
+                "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5FNmh3ZFQ5b0g5Qnc5U2gyaC0wZmsxSlhKX0VUMDVheVpnUEdsUHJZNXRfQld2WHotVU5MSEdfOThfMXlYVWcwN3ljYXRkd1dQUzB0ZzVmTXY4aHQ2cENsejF6SjZOVWtZX2N1aVhEbW5CNVE?oc=5\" target=\"_blank\">그레이스케일 \"비트코인, 4년 주기 깨고 2026년 사상 최고가 전망\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oYk8xc0NXdDV6VFFDQU81akhZb2YwZVh3ZXl4WmlJZjZwU2pWWWYzaDg3VVh3aFdTdjJVVUlLd1RMYXBrSlFBU1p5bk8tNG1BTkd30gFYQVVfeXFMUGY5R25GdEhSM1VQbDhSN2NVVEVnTmRacTg1UXIxYlVnMmx6V3JBaEdzTmZVbVZLU2gybEIwbzRKeWF0V24xRmxCWkJjUEdSQmwwYnN1ampPcA?oc=5\" target=\"_blank\">가상자산 투자회사 비트코인 수요 아직 강해</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SBS Biz</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE11ZGd3Szd3dVJWV2dTd1RjOVBTNnhIcURkMFBCVGhWWlVza20tc1E4c2YzUDU3RzBmMWlReDZJWlpvLUhlVDFfTUNYdVVsZ1lCN0Zz?oc=5\" target=\"_blank\">비트코인 4년 주기 사라졌다…경제·심리 새 변수 될까?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font></li><li><a...",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "‘전력 효율성 최고’ 자체 AI 칩 내놓으며 ‘엔비디아’ 도전장 - 조선일보",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObEF4ZmRqaW9Gal9JVnRDcXIzTFBNd1lFNzEwS1NnN0p6SlR1aW40MXNhajNmMl82SThaaWVpZkJNV0U2TGQwRGMyMVloVUFlSWROMEVOM1FaOERYMVBkT0VnN3ZLdFZCYVFEOFFPNUdUamgyM0dsS1l4THJXdnBxSVpaWdIBlwFBVV95cUxNZ3N1TUhUblpXMEE5NUhuRDBfdWtCR0NpVFVWdVQ1YTZmTGhSaFJLZ3p6SVliMU8wQTlSWkVoMEhUcjNHd3ZqaGx4MFdpZTdvY1hyZlZvQi1JTFpaaEtJamtrempnNlhpdS1JX2wxVlRYMUFIcFNGUzRXLW9tYUxiZzFCZERBZko3RlYyZkNaMTZaREx5NHJz?oc=5",
+                "published": "2025-12-02 22:18:45",
+                "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxObEF4ZmRqaW9Gal9JVnRDcXIzTFBNd1lFNzEwS1NnN0p6SlR1aW40MXNhajNmMl82SThaaWVpZkJNV0U2TGQwRGMyMVloVUFlSWROMEVOM1FaOERYMVBkT0VnN3ZLdFZCYVFEOFFPNUdUamgyM0dsS1l4THJXdnBxSVpaWdIBlwFBVV95cUxNZ3N1TUhUblpXMEE5NUhuRDBfdWtCR0NpVFVWdVQ1YTZmTGhSaFJLZ3p6SVliMU8wQTlSWkVoMEhUcjNHd3ZqaGx4MFdpZTdvY1hyZlZvQi1JTFpaaEtJamtrempnNlhpdS1JX2wxVlRYMUFIcFNGUzRXLW9tYUxiZzFCZERBZko3RlYyZkNaMTZaREx5NHJz?oc=5\" target=\"_blank\">‘전력 효율성 최고’ 자체 AI 칩 내놓으며 ‘엔비디아’ 도전장</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RMnNySnkwSlNLZmNXNXRySjc3YzQ5ZmJkNUhNMmdxeFF2UXdkMmxWSWtRNE5TTkVUU29QaVhTMzlMT2FRS180bVpOYjFVZGc?oc=5\" target=\"_blank\">아마존도 자체 AI 칩 내놓았다…“엔비디아 GPU 운영비의 절반”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PSWhlV1Y1TVIwckl6T25udGgyRjdvTTdvZVdESjVWeWk5dUwxMG5aeUJnZmNJZ2dURDFxeUotMWNiRTVKZXp1Z2xCSmJ3MVBTbTkz...",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "“은행 울타리에 가두면 韓 스테이블코인 사망”... 안도걸, ‘개방형 혁신’ 승부수 던졌다 - 매일경제",
+                "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Nal81OWVjV0tRMlVsLS1YTlEwdEloVjAycHhXSzBCQTZNWGExQ01Pb25Ba25SYVY2MjBOZ3psOHA4RnZwc0lKMHNwdlZrZnNNa3c?oc=5",
+                "published": "2025-12-02 01:03:40",
+                "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Nal81OWVjV0tRMlVsLS1YTlEwdEloVjAycHhXSzBCQTZNWGExQ01Pb25Ba25SYVY2MjBOZ3psOHA4RnZwc0lKMHNwdlZrZnNNa3c?oc=5\" target=\"_blank\">“은행 울타리에 가두면 韓 스테이블코인 사망”... 안도걸, ‘개방형 혁신’ 승부수 던졌다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mN1BaajVYRXhiQUNTbkdBZS05Zm9qS3NBRXVHUFQtUDVpVWNHbVN1djY3YlBMRG5fa3J1YnM4OGhZdGY5NHdVTmhEa2NEelU?oc=5\" target=\"_blank\">스테이블코인 법안 해 넘기나… 은행들 ‘물밑 선점전’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FWnVGM2dMelBjaUU1OUVkT2hVblc1aExsaHFUSV9RNC15b1oxZ3NqZTM5UXBRU3pDZEFlSnBuRXJGRERwVHdIWmN4TzR5dWhIdEx3RThhSTdhdGpKYlNLTERkb1FYQQ?oc=5\" target=\"_blank\">\"금가분리 원칙 재검토해야\"…국회·업계, '금융-가상자산' 통합 주장</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE42cHBYZUcxTE0tYWx1YTNIWVVLaW9SWVN0a2dFalUyU0g1eHZKQW5rNkFCbnB...",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "[토큰포스트 칼럼] \"투기판은 끝났다\"… 65% 대 8%의 격차가 말해주는 '돈의 이동' - tokenpost.kr",
+                "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YZVFWS0xvcjdvOGdnNGdmSVpMM0RDaFhWbkl2OUI5Tm5EZ3hYTEowYWMyWGh3SVVLZmFKSjlvV2pUQWVnWDZ2WVhIdkxHbEpuZE1lU1ZNVzfSAV5BVV95cUxOWko3d0dfSEpWaTFhZ3V1SEhmR3VPQy1aOUxRRWpZNGNwMkg2WktrUVkyY1ppNUtrUUtZZVNwZVBnWEpiUEktZ1VLZ3FqTThUVlY0TmdCZ0V5ZmJ6aExB?oc=5",
+                "published": "2025-12-02 13:02:12",
+                "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YZVFWS0xvcjdvOGdnNGdmSVpMM0RDaFhWbkl2OUI5Tm5EZ3hYTEowYWMyWGh3SVVLZmFKSjlvV2pUQWVnWDZ2WVhIdkxHbEpuZE1lU1ZNVzfSAV5BVV95cUxOWko3d0dfSEpWaTFhZ3V1SEhmR3VPQy1aOUxRRWpZNGNwMkg2WktrUVkyY1ppNUtrUUtZZVNwZVBnWEpiUEktZ1VLZ3FqTThUVlY0TmdCZ0V5ZmJ6aExB?oc=5\" target=\"_blank\">[토큰포스트 칼럼] \"투기판은 끝났다\"… 65% 대 8%의 격차가 말해주는 '돈의 이동'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tokenpost.kr</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3M3V6bUNFYkwzeWJCZGNDdVoybGRnZDRjcEFfUlB1Nm14eHpkUUwzSmpiZUJrS19Md252ZkV3V09kZmdqN2pxU2k4b2lVNXh5RGRURkRR?oc=5\" target=\"_blank\">리처드 텅 바이낸스 대표 \"디지털자산이 글로벌 금융 인프라 실질 리더\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">지디넷코리아</font></li><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9PNm1KeVViOE9OWWdsV3U3WFNVZTRMdGwySzRwR05hcDZ6M1RaT1VOY1c5RGUzbHdScW5nUnBfMmFKQWhmczNIOWR2YVQ5OGFGd1lsX2p3aVhMai1ac0pELVV6T29DV0dsOVBoSnVKVk01UVk?oc=5\" target=\"_blank\">리차드 텅 \"가상자산, 글로벌 금융 인프라로…AI 결합이 미래 연다\" B...",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "생활용품점 '셀프 계산' 실수했다가…\"지옥 같았다\" 무슨 일 - hankyung.com",
+                "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWaXhsOWZlbW9vMmlROVVtYTFvMThmSUs2Y2tGQmczVFplMkY1b1FkaWtLaHNJdzdyS1VRRjZ6RzM0OFEzWlRJQUUySE5mMmpGQ3JLaHlOcHd0d9IBVEFVX3lxTE4yT2VqU0EtWlZLWVVqc0JDU0ZwekVaX2ducmZyWnNRMTV1Y3FHZFkzUGR6WnN1T0VnazBQVEtuR1AtcF9OcXNnTEhQOHVQbTBLLWk1Zg?oc=5",
+                "published": "2025-12-02 02:23:00",
+                "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWaXhsOWZlbW9vMmlROVVtYTFvMThmSUs2Y2tGQmczVFplMkY1b1FkaWtLaHNJdzdyS1VRRjZ6RzM0OFEzWlRJQUUySE5mMmpGQ3JLaHlOcHd0d9IBVEFVX3lxTE4yT2VqU0EtWlZLWVVqc0JDU0ZwekVaX2ducmZyWnNRMTV1Y3FHZFkzUGR6WnN1T0VnazBQVEtuR1AtcF9OcXNnTEhQOHVQbTBLLWk1Zg?oc=5\" target=\"_blank\">생활용품점 '셀프 계산' 실수했다가…\"지옥 같았다\" 무슨 일</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">hankyung.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iZHV4N2l6Vl8yeGUxYXJKVnJrbzVRM094bGVUbGRxdWNoa0tUX2s5dktKVTR3cWx3ekd1YldvOXlPaXdQd0VLNjU2UjlGV2FLS1ZCUDl6T0XSAVRBVV95cUxQc1l6Si1ta3hJdkxiYU5XMUkzdTNLOWZsbHdORU9YTzFrVlI3TkQxbGZ5ZlpYUzlnWllxQ1hrV2gzd1R5SURmY21vX2N0MDZYYkN2YjE?oc=5\" target=\"_blank\">“합의금 30배 불렀다”…셀프계산대 누락에 재판까지 간 사연</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE52RnNRT2JWazBkREM5LVJMREhPWUJGazFUVzFrNzU1czZuNmoyU19MVVpVZUFRTkJqMzFhMWhQUWRvWHgzWnlOSkRqOWx5V1E?oc=5\" target=\"_blank\">“셀프...",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "이더리움 ‘후사카(Fusaka)’ 업그레이드, 내일 예정 - 블록미디어",
+                "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12U09hT0RMZ3pQS3l1ZjBCQnRlSEZFZ2wtVzFJcV9pZkQxQlJfQXI2cFpRTVRCeXljb0h3VUxZUTJPcmkxM28zTUpZLUpMSE91d2RQV0Q3TE0?oc=5",
+                "published": "2025-12-02 22:28:00",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE12U09hT0RMZ3pQS3l1ZjBCQnRlSEZFZ2wtVzFJcV9pZkQxQlJfQXI2cFpRTVRCeXljb0h3VUxZUTJPcmkxM28zTUpZLUpMSE91d2RQV0Q3TE0?oc=5\" target=\"_blank\">이더리움 ‘후사카(Fusaka)’ 업그레이드, 내일 예정</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">블록미디어</font>",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "핵심 기능 딱 갖췄는데 20만원대, 국내 기업 개발 동급 최강 로봇청소기 - 조선일보",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaENsanpPUXZjMXh0bGgtaU9mVTFFUldpR2dod0d0ZE5zek9tTWYzTUU3bUk5STM4bUcteGJPWjRoN1BuUVNhd0tPcDVpRDRJcjhTTGV5U25mTExjMkhiX1lDczBocXFzMWZWRWM2T09oRllvVV9kU042eHdpT01CaU5QTjM4Y0tqN1hZ0gGfAUFVX3lxTE8yQzl5bHg4bDUteHlGcW9QX0dlZzlTb1M2dndtQVB0Vl9DVVpEaUN0bGVjOU9MVGNXcHNtVXlWRDRKY3Y5QmdmMElJbExBcXhkazNfanAwZlNQYkNoZ05SMWJjMzRsaFgyNTdfb3JabDVoZmN4a3BpWTZDMFhsTUpGSkFvVFBKLU9FN05ub1BxTEVQaFIza3BtcWFTMTBqQQ?oc=5",
+                "published": "2025-12-02 20:20:00",
+                "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaENsanpPUXZjMXh0bGgtaU9mVTFFUldpR2dod0d0ZE5zek9tTWYzTUU3bUk5STM4bUcteGJPWjRoN1BuUVNhd0tPcDVpRDRJcjhTTGV5U25mTExjMkhiX1lDczBocXFzMWZWRWM2T09oRllvVV9kU042eHdpT01CaU5QTjM4Y0tqN1hZ0gGfAUFVX3lxTE8yQzl5bHg4bDUteHlGcW9QX0dlZzlTb1M2dndtQVB0Vl9DVVpEaUN0bGVjOU9MVGNXcHNtVXlWRDRKY3Y5QmdmMElJbExBcXhkazNfanAwZlNQYkNoZ05SMWJjMzRsaFgyNTdfb3JabDVoZmN4a3BpWTZDMFhsTUpGSkFvVFBKLU9FN05ub1BxTEVQaFIza3BtcWFTMTBqQQ?oc=5\" target=\"_blank\">핵심 기능 딱 갖췄는데 20만원대, 국내 기업 개발 동급 최강 로봇청소기</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font></li><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBoVkdILWhzYVRtQjZGeUM1UkhsdTFZajFpRjBMc0RiWnROVWVBZWlPTjZYaVNSZXJLTFRvbFpGZ1VBcURGOG41dm5OUmNkMFFwMktnMmFuNUdYUlRpTHI5S3Q0RTN2a2YtN3VLWmRldFpuencyNTdTWQ?oc=5\" target=\"_blank\">헷갈리는 로청 성능 표기…삼성·LG는 기준대로 中 '제맘대로'.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font></li></ol>",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "[단독] 'HD현대·두산에너빌 기자재 공급' 테라파워 美 원전, 안전평가 통과 \"18개월 내 인허가 결정\" - 더구루",
+                "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HeFgzUURvMDdMR3Jza2g5VE9iY09fTjVRSWdkSk5SajNabV9PcXgtYW5DQWJkRGZXb0dYSlZkUm93eEFLQXpUMFd1RTlzOEttdVpvYmJyUmZGeHN4aGFaaXBn?oc=5",
+                "published": "2025-12-02 05:59:12",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HeFgzUURvMDdMR3Jza2g5VE9iY09fTjVRSWdkSk5SajNabV9PcXgtYW5DQWJkRGZXb0dYSlZkUm93eEFLQXpUMFd1RTlzOEttdVpvYmJyUmZGeHN4aGFaaXBn?oc=5\" target=\"_blank\">[단독] 'HD현대·두산에너빌 기자재 공급' 테라파워 美 원전, 안전평가 통과 \"18개월 내 인허가 결정\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">더구루</font>",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "中 위안화, 2020년 이후 최대 강세…암호화폐 시장 미치는 영향 - 디지털투데이",
+                "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RaVFqazZPTlYzMXZCTENpQXlSTi1IdWFTVEJFS3BoQk11Y2d5bElaX2pnS3NlUmhjOUM2MWMxb2NRTzZJVHFyeGhSMnBoazNCakQ2M0ZwQ1NjT3ZSUmRvbGM1MEdqR1RDenFvaTRydmFUa0k?oc=5",
+                "published": "2025-12-02 23:46:20",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9RaVFqazZPTlYzMXZCTENpQXlSTi1IdWFTVEJFS3BoQk11Y2d5bElaX2pnS3NlUmhjOUM2MWMxb2NRTzZJVHFyeGhSMnBoazNCakQ2M0ZwQ1NjT3ZSUmRvbGM1MEdqR1RDenFvaTRydmFUa0k?oc=5\" target=\"_blank\">中 위안화, 2020년 이후 최대 강세…암호화폐 시장 미치는 영향</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font>",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "'소프트웨이브 2025' 오늘 개막…최신 AI·SW 트렌드 한 눈에 살핀다 - 전자신문",
+                "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zS0dTam0zb0NxdEVPdG9vYWxlXzQtN29zVUd0NkE5TzRzSVREQVJhdHZ6UWkyMnp0dlljSF9fUHVabWlsS2FjbmdpMWpxdw?oc=5",
+                "published": "2025-12-02 04:57:07",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zS0dTam0zb0NxdEVPdG9vYWxlXzQtN29zVUd0NkE5TzRzSVREQVJhdHZ6UWkyMnp0dlljSF9fUHVabWlsS2FjbmdpMWpxdw?oc=5\" target=\"_blank\">'소프트웨이브 2025' 오늘 개막…최신 AI·SW 트렌드 한 눈에 살핀다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전자신문</font>",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "휴게소 소떡 즐기며 안전운전 가능…한국 최초 슈퍼크루즈 타보니 - 매일경제",
+                "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYZDlzZzk4Qld2ZGlSc1U5Vld2Y1VjY3BZemg2OFFpekEzS2EwOHMwdGxzODhMOVE0TE8zSUlZNldLSWVRQ29wanU3WnlYWEV6X3VJbGlR?oc=5",
+                "published": "2025-12-02 22:36:18",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYZDlzZzk4Qld2ZGlSc1U5Vld2Y1VjY3BZemg2OFFpekEzS2EwOHMwdGxzODhMOVE0TE8zSUlZNldLSWVRQ29wanU3WnlYWEV6X3VJbGlR?oc=5\" target=\"_blank\">휴게소 소떡 즐기며 안전운전 가능…한국 최초 슈퍼크루즈 타보니</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "게임 체인저 된 ‘주문형 AI칩’…내년 메모리 수요 60% 늘어난다 - 매일경제",
+                "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jVXJDbU1ZM1E0MEVVV0hZNVpQTGo2OGJSTVFjWEZyQlBnRk9ieXlVTzI3WHBTcXFfUXhjNzBWSXZWR1JGZlJsM3Jsd05zRFh6UTJ5TTFB?oc=5",
+                "published": "2025-12-02 09:42:59",
+                "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jVXJDbU1ZM1E0MEVVV0hZNVpQTGo2OGJSTVFjWEZyQlBnRk9ieXlVTzI3WHBTcXFfUXhjNzBWSXZWR1JGZlJsM3Jsd05zRFh6UTJ5TTFB?oc=5\" target=\"_blank\">게임 체인저 된 ‘주문형 AI칩’…내년 메모리 수요 60% 늘어난다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5WdXZjbFBXUkRLR2d4RDJjYlgzMkFHdjF2ZmFyZDVNSm8tZlIzLWtUbHo0UldHb1NCMWtIQzNsYkdNd1hqTXJ2QjV1Rlp0dw?oc=5\" target=\"_blank\">HWP 읽는 구글 제미나이, AI 생태계 한글 데이터 급증할까</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">바이라인네트워크</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVpFbXN0c1YtRzVHTjBZODZoc2RNaG5NMTA4TE50a3VQYTV0NGxKUWNKZ0ZaSlo5V3ppS3phLURJYUNSVjFWZ3VEOG1yRVdrQlRzOG5uQ25RTkZvYUFLb0Fyai15bFpnclU3ZDhYQmV2b2YxbU9ya2JhQ29ON3dRMjZqVFY?oc=5\" target=\"_blank\">제미나이3, 챗GPT 꺾었대요</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rOHBzcUwzeklxTF9ZcXhwZktmbjNiYzRtRGpuQWxCb0VEb...",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "전문성보다 비전, 데이터보다 서사에 열광… ‘여자 잡스’ 몰락의 교훈[이준만의 세상을 바꾼 기업가들] - 동아일보",
+                "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9veGJ6dEpLTloyMW9oYjFtYUprVU41RlZlcXVaejdzMS15R0JzOVl3Nlp3YURvMGdWN216RncyaUNYem52RmdSWWtSbml6STFrQ183bmRNdFczX2k5N0Z1M0tEaFlVb2dzMzk3OV9WUGhRMlVka1HSAWZBVV95cUxQdjBIMlJXSXFvbkpqNElpb1lObzV4LXE4M2ZucEZkRE9BODl6eFdLRmMyYTF3ckFXWEtvc01fWUl3UnQtTGJMZ19NaUh0LU9PYU54MEdvZXV0dFl0cS1GcXZWVGFfSnc?oc=5",
+                "published": "2025-12-02 14:06:00",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9veGJ6dEpLTloyMW9oYjFtYUprVU41RlZlcXVaejdzMS15R0JzOVl3Nlp3YURvMGdWN216RncyaUNYem52RmdSWWtSbml6STFrQ183bmRNdFczX2k5N0Z1M0tEaFlVb2dzMzk3OV9WUGhRMlVka1HSAWZBVV95cUxQdjBIMlJXSXFvbkpqNElpb1lObzV4LXE4M2ZucEZkRE9BODl6eFdLRmMyYTF3ckFXWEtvc01fWUl3UnQtTGJMZ19NaUh0LU9PYU54MEdvZXV0dFl0cS1GcXZWVGFfSnc?oc=5\" target=\"_blank\">전문성보다 비전, 데이터보다 서사에 열광… ‘여자 잡스’ 몰락의 교훈[이준만의 세상을 바꾼 기업가들]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">동아일보</font>",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            }
+        ],
+        "updated_at": "2025-12-04 00:07:20"
     }
 }
