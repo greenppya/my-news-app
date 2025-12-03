@@ -465,5 +465,46 @@
             }
         ],
         "updated_at": "2025-12-04 00:07:20"
+    },
+    "2025-12-01": {
+        "briefing": "Error generating analysis: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+        "articles": [
+            {
+                "title": "“비트코인이 金 된다”…개미들 묶어놓고 먼저 던지겠다는 회장님 - 매일경제",
+                "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCOGFxcXhabl85MmxDWFd5bU5wZjlZM2ppZjFuR0xNN0hMS043bElud09lcXptLVUtNlMweTFaTlQyZlUzYVlCTjlYT2lWRGpGaFE?oc=5",
+                "published": "2025-12-01 21:57:16",
+                "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCOGFxcXhabl85MmxDWFd5bU5wZjlZM2ppZjFuR0xNN0hMS043bElud09lcXptLVUtNlMweTFaTlQyZlUzYVlCTjlYT2lWRGpGaFE?oc=5\" target=\"_blank\">“비트코인이 金 된다”…개미들 묶어놓고 먼저 던지겠다는 회장님</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XZExEVEpfZDVwVEhVSUpSSV9ZRUdnTWlHN0x3RVRoeTZHa09Md1JrZHBKZ2Vvci1VV1FCbWFDdnctWnJ0cmRjd2ljcThjUHc?oc=5\" target=\"_blank\">“비트코인 4만달러까지 추락 경고”에 ‘2조원 현금’ 쌓은 스트래티지</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSTNwMGJQa3NGcDR1YjA3SS14YkZBSjhHTkRjVmxDRllRWTlJdXZzWDhac1o2NVZYZ0xPRWVsTmpVdlRaaHNpZl9CVkJOQ0cxemNFOVBpTGo0MV8yMTV3cVo3SHg1NzJxa1BXNmEyTVlRM3lXTFJKUk9GZ2NrN3pPTzU2U2h3QlZI?oc=5\" target=\"_blank\">스트래티지, 비트코인 베팅 역풍...주가 60% 폭락에 레버리지 ETF '초토화'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">글로벌이코노믹</font></li><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9pWHRRa0ZQQ...",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "배터리 수명 '2배'로…12억㎞ 주행 데이터 활용한 LG엔솔의 기술 - 네이트",
+                "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lcUVJOWUxVW5jUlNueC1uUWtFUkxPMUNwOHhjSTZ0ZENGXzc3VkdEUGZ1YWdnSFllcHozWEJ5eDdWV1E0MThZYzZhZFVobGxTZFlV?oc=5",
+                "published": "2025-12-01 21:11:00",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lcUVJOWUxVW5jUlNueC1uUWtFUkxPMUNwOHhjSTZ0ZENGXzc3VkdEUGZ1YWdnSFllcHozWEJ5eDdWV1E0MThZYzZhZFVobGxTZFlV?oc=5\" target=\"_blank\">배터리 수명 '2배'로…12억㎞ 주행 데이터 활용한 LG엔솔의 기술</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">네이트</font>",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "피지컬 AI 로봇 핵심 부품, 韓 감속기가 뛴다… ‘탈중국’ 기회 업고 내년 흑자 승부 - 조선비즈 - Chosunbiz",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVFZraUlVWUxFTjhrYVg3VHZFeGduSTRGT2RsSzR5bkk5WEIwZDdXMWZiNmdGay1tNFF0dzE1VElxS2xWRG5pYmJMSDRZVTFWcWtDVTZrOUZNRG0wX1JCM1FUWFBrSnhZSmxiOVhubzk5XzdxN2lrVWZXVDN5d1JYRWFnYnrSAZgBQVVfeXFMUDZjRTB0cVBvX0lkWlRFMVljN0FBa20yU3gyYVJ0dHpJSkNpbjV2YkFkZE12OURndGhTYXhfVlZGWllHVmpTWENUVjg4djVGUUd3cTBHd0Rlc1NHRXN6QUpWUk8zelVHcUZ2NnlVMGRFMjNDOUF1ejhIV1puVXpRbFcxcW5jU2o2eldIWlVPVUl3d0lkWTdEbmg?oc=5",
+                "published": "2025-12-01 23:38:00",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNVFZraUlVWUxFTjhrYVg3VHZFeGduSTRGT2RsSzR5bkk5WEIwZDdXMWZiNmdGay1tNFF0dzE1VElxS2xWRG5pYmJMSDRZVTFWcWtDVTZrOUZNRG0wX1JCM1FUWFBrSnhZSmxiOVhubzk5XzdxN2lrVWZXVDN5d1JYRWFnYnrSAZgBQVVfeXFMUDZjRTB0cVBvX0lkWlRFMVljN0FBa20yU3gyYVJ0dHpJSkNpbjV2YkFkZE12OURndGhTYXhfVlZGWllHVmpTWENUVjg4djVGUUd3cTBHd0Rlc1NHRXN6QUpWUk8zelVHcUZ2NnlVMGRFMjNDOUF1ejhIV1puVXpRbFcxcW5jU2o2eldIWlVPVUl3d0lkWTdEbmg?oc=5\" target=\"_blank\">피지컬 AI 로봇 핵심 부품, 韓 감속기가 뛴다… ‘탈중국’ 기회 업고 내년 흑자 승부 - 조선비즈</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "중국 암호화폐 금융권 전면 퇴출 \"인민은행 특별 지시 - 글로벌이코노믹",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUnNLSzVKaWNIZ1ZhYkVDdGJVblhzSENPam11aTRFaXBlMktWUnIzLWNkVkRfUjl1YmRvUU1nT3hpMEFqUmJRaUQ4czlnV3NwaUFQV2NKcE1fblVmbUp6Uy1nWGRwWWFuZEo2MFBsYS0tSEZSWWJwdGVRZm9yT3ppYWt3STNpLWJ3?oc=5",
+                "published": "2025-12-01 15:00:00",
+                "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUnNLSzVKaWNIZ1ZhYkVDdGJVblhzSENPam11aTRFaXBlMktWUnIzLWNkVkRfUjl1YmRvUU1nT3hpMEFqUmJRaUQ4czlnV3NwaUFQV2NKcE1fblVmbUp6Uy1nWGRwWWFuZEo2MFBsYS0tSEZSWWJwdGVRZm9yT3ppYWt3STNpLWJ3?oc=5\" target=\"_blank\">중국 암호화폐 금융권 전면 퇴출 \"인민은행 특별 지시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">글로벌이코노믹</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xNExZWlRvZkJ4dUtqNGMwa2R6M0dfTmQyNG9sRDFFN2owX1pjd2tOWktuV3REbHRlWFhXbkNjdEJxT3ZBNEF1MkVfaWdvY3M?oc=5\" target=\"_blank\">[천자칼럼] 암호화폐 때리는 中</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">v.daum.net</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mYzJOUlMxLVZlc1JQVXRVelJhTkpSbnFTUGxqT1ItVU5YMU03dmNoWnE1VklnTlNMYzRrZjc3UFFpVURlQmc1ZVdnYm9zUVhidkNCNzFOR0pqajFTS2ZRS0d5bmzSAXhBVV95cUxOUURMZ2ZzamY5Z2JGOC1nX2dQZTd5S2dEUjlXcDYzNE9JcU13RFBVejBqbmxvYUZ0MXlfYXVPbWN0NGJBLWFNS1FBa29WcUdyQUs1MzBZX3NXa3BLVFlVdE52VVhiQUxlMlVvNmJZWDI0WUVvWWhWNjc?oc=5\" target=\"_blank\">中인민은행 \"가상화폐는...",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            },
+            {
+                "title": "독일산 자율주행 전기 셔틀 SUE 공개, 상용화 임박: 50km/h 8인승 로보셔틀로 독일 대중교통 혁신 - SpeedMe.ru",
+                "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSkNZMWl1QVBkOWk3NXhNaDM3SUpWSHZLYTFKdTRKX3IzR0pqa290dFYwUDZnTFdvbGs3MlRCZGdLTXhYX3hzWnpJSkh0c3NFUHdybEZaOENHbzhHNmhjSXdCSm5RaXlXMl9NcjdQQlAwQkgzSDF4cDdfOFBKckExTk5wV2JMNXZyOTIzSXlKazZDVWxodHVzMVdGZ1UwaGVwXzZaRUpUUG16TkpOaks0UG1xOUFobjExc1hFWGNFZjVlaTRQc1lSSUxKdWdqQUVLcE5mOVM0bHdXc05IamNvU1ZwMEp2T0VjamprdnhUYnZ2WTB2X0FV0gH7AUFVX3lxTE5oazFCUXVrdkd0aXB5MGNpanJfaG1hU2hGWkFBODhwQmFZRXRTb1p1SmtzUW1NSGJUREt0bVlTWW1QR0JaWko4SVhUZlJtVHh2M3lrRXg1WFpMMHN5Rk5FbkFnYml0Ti1fampUMS1uLWZ2dXE0XzJ0UVYtZERnU3NSdG1jUldNbUVTRTZOWFFWMXdjdEhqQUYwOTRMTUhTZ0Vwd3dpbUxwNkVoU05MM2Y5OG9pcm52TExwRmNVUm5wWWNXSjZzeDNKVFhjVVhnZGdmMWtMNzdyWXJCM2hpZVhNTjhsQWNoNUV6a0hfbF83ZGQxVXhFLU1JZzhz?oc=5",
+                "published": "2025-12-01 20:19:13",
+                "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSkNZMWl1QVBkOWk3NXhNaDM3SUpWSHZLYTFKdTRKX3IzR0pqa290dFYwUDZnTFdvbGs3MlRCZGdLTXhYX3hzWnpJSkh0c3NFUHdybEZaOENHbzhHNmhjSXdCSm5RaXlXMl9NcjdQQlAwQkgzSDF4cDdfOFBKckExTk5wV2JMNXZyOTIzSXlKazZDVWxodHVzMVdGZ1UwaGVwXzZaRUpUUG16TkpOaks0UG1xOUFobjExc1hFWGNFZjVlaTRQc1lSSUxKdWdqQUVLcE5mOVM0bHdXc05IamNvU1ZwMEp2T0VjamprdnhUYnZ2WTB2X0FV0gH7AUFVX3lxTE5oazFCUXVrdkd0aXB5MGNpanJfaG1hU2hGWkFBODhwQmFZRXRTb1p1SmtzUW1NSGJUREt0bVlTWW1QR0JaWko4SVhUZlJtVHh2M3lrRXg1WFpMMHN5Rk5FbkFnYml0Ti1fampUMS1uLWZ2dXE0XzJ0UVYtZERnU3NSdG1jUldNbUVTRTZOWFFWMXdjdEhqQUYwOTRMTUhTZ0Vwd3dpbUxwNkVoU05MM2Y5OG9pcm52TExwRmNVUm5wWWNXSjZzeDNKVFhjVVhnZGdmMWtMNzdyWXJCM2hpZVhNTjhsQWNoNUV6a0hfbF83ZGQxVXhFLU1JZzhz?oc=5\" target=\"_blank\">독일산 자율주행 전기 셔틀 SUE 공개, 상용화 임박: 50km/h 8인승 로보셔틀로 독일 대중교통 혁신</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SpeedMe.ru</font>",
+                "source": "기술 - 최신 뉴스 - Google 뉴스"
+            }
+        ],
+        "updated_at": "2025-12-04 00:07:41"
     }
 }
